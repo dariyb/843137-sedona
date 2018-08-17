@@ -71,19 +71,24 @@
             </li>
           </ul>
           <p class="filter-title">Стоимость в сутки (Р):</p>
-          <div class="filter-interval">
-            <label>
+          <div class="filter-range-interval">
+            <div class="filter-interval">
+              <label>
               От
               <input type="text" name="from" value="0">
             </label>
-            <label>
+              <label>
               До
               <input type="text" name="to" value="3000">
             </label>
-          </div>
-          <div class="filter-range">
-            <button class="filter-range-handle min" aria-label="минимальная стоимость"></button>
-            <button class="filter-range-handle max" aria-label="максимальная стоимость"></button>
+            </div>
+            <div class="filter-range">
+              <div class="filter-range-scale">
+                <div class="filter-range-bar"></div>
+              </div>
+              <button class="filter-range-handle min" aria-label="минимальная стоимость"></button>
+              <button class="filter-range-handle max" aria-label="максимальная стоимость"></button>
+            </div>
           </div>
         </form>
       </section>
