@@ -27,7 +27,19 @@
     <main class="container">
       <section class="filter">
         <h1 class="visually-hidden">Поиск гостиницы в Седоне</h1>
-        <!-- форма -->
+        <form class="filter-search" action="https://echo.htmlacademy.ru" method="get">
+          <fieldset>
+            <legend>Инфраструктура:</legend>
+            <ul class="infrastructure">
+              <li class="infrastructure-item">
+                <label>
+                <input type="checkbox" name="pool" checked>
+                Бассейн
+              </label>
+              </li>
+            </ul>
+          </fieldset>
+        </form>
       </section>
       <section class="filter-results">
         <h2 class="visually-hidden">Результаты поиска</h2>
