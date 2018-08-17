@@ -133,7 +133,7 @@
           <p class="search-item">
             <label>
               Дата заезда:
-              <input type="text" name="date-of-arrival" placeholder="24 апреля 2017" required>
+              <input class="search-item-text" type="text" name="date-of-arrival" placeholder="24 апреля 2017" required>
               <button type="button" class="search-calendar" aria-label="Календарь">
                 <img src="img/calendar.svg" width="21" height="22" alt="Календарь">
               </button>
@@ -142,7 +142,7 @@
           <p class="search-item">
             <label>
               Дата выезда:
-              <input type="text" name="date-of-departure" placeholder="4 июля 2017">
+              <input class="search-item-text" type="text" name="date-of-departure" placeholder="4 июля 2017">
               <button type="button" class="search-calendar" aria-label="Календарь">
                 <img src="img/calendar.svg" width="21" height="22" alt="Календарь">
               </button>
@@ -151,9 +151,9 @@
           <p class="search-item">
             <label>
               Взрослые:
-              <button class="minus" type="button">-</button>
-              <input type="text" name="adults" value="2">
-              <button class="plus" type="button">+</button>
+              <button class="minus" type="button" aria-label="Уменьшить">-</button>
+              <input class="search-item-text" type="text" name="adults" placeholder="2" required>
+              <button class="plus" type="button" aria-label="Увеличить">+</button>
             </label>
           </p>
           <p class="search-item">
