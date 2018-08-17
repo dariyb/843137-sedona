@@ -12,7 +12,7 @@
       <nav class="main-navigation">
         <a class="main-header-logo">
           <img src="img/logo-sedona.svg" width="138" height="70"
-            alt="Логотип Седоны">
+            alt="Логотип городка Седона">
         </a>
         <ul class="site-navigation">
           <li><a href="#">Информация</a></li>
@@ -35,7 +35,7 @@
             <h3 class="reasons-title">
               Настоящий городок
             </h3>
-            <span class="reasons-text">-№1-</span>
+            <p class="reasons-text">-№1-</p>
             <p class="reasons-text">Седона-не аттракцион для туристов, там течет своя жизнь</p>
           </div>
           <div class="reasons-image">
@@ -75,7 +75,7 @@
             <h3 class="reasons-title">
               Там есть мост дьявола
               </h3>
-            <span class="reasons-text">-№2-</span>
+            <p class="reasons-text">-№2-</p>
             <p class="reasons-text">
               Да, по нему можно пройти! Если конечно вы осмелитесь
             </p>
@@ -90,7 +90,7 @@
           <h3 class="reasons-title">
             Небольшая площадь
           </h3>
-          <span class="reasons-text">-№3-</span>
+          <p class="reasons-text">-№3-</p>
           <p class="reasons-text">
             Все достопримечательности находятся очень близко
           </p>
@@ -100,7 +100,7 @@
             <h3 class="reasons-title">
             Красивая дорога
            </h3>
-            <span class="reasons-text">-№4-</span>
+            <p class="reasons-text">-№4-</p>
             <p class="reasons-text">
               Ехать в Седону из Лас-Вегаса совсем не скучно!
             </p>
@@ -109,7 +109,7 @@
             <h3 class="reasons-title">
               Мало туристов
            </h3>
-            <span class="reasons-text">-№5-</span>
+            <p class="reasons-text">-№5-</p>
             <p class="reasons-text">
               Большинство едет в Гранд Каньон и толпится там
             </p>
@@ -123,13 +123,20 @@
         <p class="search-title-text">
           Укажите предполагаемые даты поездки, и мы покажем вам лучшие предложения гостиниц в Седоне
         </p>
-        <button type="button">
+        <button class="search-for-hotel" type="button">
           Поиск гостиницы в Седоне
         </button>
         <p class="map-image">
-          <img src="img/mapp.png" width="1280" height="748" alt="Картинка карты">
+          <img src="img/mapp.png" width="1280" height="748" alt="Местоположение Седоны на карте">
         </p>
-        <!-- форма -->
+        <form class="search-form" action="https://echo.htmlacademy.ru" method="post">
+          <p class="search-item">
+            <label>
+              Дата заезда:
+              <input type="date" name="date" placeholder="24 апреля 2017"/>
+            </label>
+          </p>
+        </form>
       </section>
     </main>
     <footer class="main-footer">
