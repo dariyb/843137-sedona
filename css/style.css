@@ -99,3 +99,16 @@ p.reasons-for {
   color: #333333;
   background-color: #ffffff;
 }
+
+.reasons-unit-2 {
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+.reasons-unit-2 h3 {
+  font-size: 21px;
+  line-height: 21px;
+  font-weight: 700;
+  color: #000000;
+  background-color: #eeeeee;
+}
