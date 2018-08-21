@@ -58,4 +58,13 @@ p.reasons-for {
 .reasons-unit {
   color: #ffffff;
   background-color: #81b3d2;
+  text-align: center;
+}
+
+.reasons-legend h3 {
+  font-size: 21px;
+  line-height: 21px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #81b3d2;
 }
