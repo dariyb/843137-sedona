@@ -10,6 +10,10 @@ body {
   background-color: #ffffff;
 }
 
+.inner-page {
+  background: url("blurr.jpg") no-repeat center top;
+}
+
 a {
   text-decoration: none;
 }
@@ -227,11 +231,6 @@ p.reasons-for {
 
 .find-results:active {
   color: rgba(255, 255, 255, 0.3);
-}
-
-.filter-infrastructure {
-  background-color: none;
-  background-image: url("blurr.jpg");
 }
 
 .filter-title {
