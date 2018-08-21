@@ -229,7 +229,7 @@ p.reasons-for {
   color: rgba(255, 255, 255, 0.3);
 }
 
-.filter {
+.filter .filter-search {
   background: url("blurr.jpg") no-repeat;
 }
 
