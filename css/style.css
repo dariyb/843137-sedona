@@ -227,3 +227,7 @@ a {
   font-weight: 400;
   color: #000000;
 }
+
+.footer-copyright svg:hover, .footer-copyright svg:focus {
+  fill: #81b3d2;
+}
