@@ -36,3 +36,7 @@ a {
 .site-navigation a:active {
   color: rgba(0, 0, 0, 0.3);
 }
+
+.site-navigation-current a:visited {
+  color: #766357;
+}
