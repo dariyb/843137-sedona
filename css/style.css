@@ -38,6 +38,7 @@ a {
 }
 
 .filter-search {
+  border: none;
   background-image: url("blurr.jpg") no-repeat;
 }
 
