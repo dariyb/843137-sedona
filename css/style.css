@@ -165,4 +165,5 @@ p.reasons-for {
 .search-item-text {
   font: inherit;
   background-color: #f2f2f2;
+  border: none;
 }
