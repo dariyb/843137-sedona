@@ -161,3 +161,8 @@ p.reasons-for {
   color: #000000;
   background-color: #ffffff;
 }
+
+.search-item-text {
+  font: inherit;
+  background-color: #f2f2f2;
+}
