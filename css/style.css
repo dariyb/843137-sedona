@@ -162,8 +162,15 @@ p.reasons-for {
   background-color: #ffffff;
 }
 
-.search-item-text, .search-calendar {
+.search-item-text {
   font: inherit;
+  background-color: #f2f2f2;
+  border: none;
+}
+
+.search-calendar {
+  font: inherit;
+  color: #a9a9a9;
   background-color: #f2f2f2;
   border: none;
 }
