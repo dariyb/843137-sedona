@@ -141,3 +141,11 @@ p.reasons-for {
   color: #333333;
   background-color: #ffffff;
 }
+
+.search-for-hotel {
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #766357;
+}
