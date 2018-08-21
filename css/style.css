@@ -160,3 +160,11 @@ a {
 .search-calendar svg {
   fill: #a9a9a9;
 }
+
+.search-calendar svg:hover, .search-calendar svg:focus {
+  fill: #000000;
+}
+
+.search-calendar svg:active {
+  fill: #81b3d2;
+}
