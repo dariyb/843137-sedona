@@ -127,3 +127,10 @@ a {
   color: rgba(255, 255, 255. 0.3);
   background-color: #503e33;
 }
+
+.search-item {
+  font-size: 14px;
+  line-height: 26px;
+  color: #000000;
+  background-color: #ffffff;
+}
