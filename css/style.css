@@ -242,7 +242,7 @@ p.reasons-for {
   background-color: rgba(254, 254, 254, 0.9);
 }
 
-.footer-social {
+.footer-social ul {
   font: ingerit;
   text-align: center;
   list-style: none;
