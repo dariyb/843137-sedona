@@ -8,6 +8,9 @@ body {
   color: #333333;
   text-transform: uppercase;
   background-color: #ffffff;
+  background-image: url("img/maun.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
 }
 
 a {
@@ -227,10 +230,6 @@ p.reasons-for {
 
 .find-results:active {
   color: rgba(255, 255, 255, 0.3);
-}
-
-.filter {
-  background: url("img/blurr.jpg") no-repeat center top;
 }
 
 .filter-title {
