@@ -33,3 +33,9 @@ a {
 .site-navigation a:hover, .site-navigation a:focus {
   color: #81b3d2;
 }
+
+.container {
+  background-image: url("img/maun.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
