@@ -229,8 +229,11 @@ p.reasons-for {
   color: rgba(255, 255, 255, 0.3);
 }
 
-.filter .filter-search {
-  background: url("blurr.jpg") no-repeat;
+.filter-title {
+  font-size: 16px;
+  line-height: 21px;
+  font-weight: 700;
+  color: #ffffff;
 }
 
 .main-footer {
