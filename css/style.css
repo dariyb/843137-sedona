@@ -64,6 +64,7 @@ a {
 
 .reasons-list {
   text-align: center;
+  list-style: none;
 }
 
 .reasons-list-item h3 {
