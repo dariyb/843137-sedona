@@ -200,6 +200,14 @@ p.reasons-for {
   border: none;
 }
 
+.minus:hover, .plus:hover, .minus:focus, .plus:focus {
+  color: #000000;
+}
+
+.minus:active, .plus:active {
+  color: #81b3d2;
+}
+
 .find-results {
   font-size: 21px;
   line-height: 26px;
