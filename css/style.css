@@ -209,6 +209,7 @@ p.reasons-for {
 .footer-social {
   font: ingerit;
   text-align: center;
+  list-style: none;
 }
 
 .footer-copyright {
