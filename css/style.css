@@ -10,10 +10,6 @@ body {
   background-color: #ffffff;
 }
 
-.inner-page {
-  background: url("blurr.jpg") no-repeat center top;
-}
-
 a {
   text-decoration: none;
 }
