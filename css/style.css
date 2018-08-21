@@ -81,6 +81,7 @@ p.reasons-for {
 .reasons-list {
   list-style: none;
   background-color: #ffffff;
+  text-align: center;
 }
 
 .reasons-list-item h3 {
