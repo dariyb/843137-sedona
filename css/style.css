@@ -86,3 +86,17 @@ a {
   font-weight: 700;
   color: #000000;
 }
+
+.search-title h2 {
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  color: #000000;
+  text-align: center;
+}
+
+.search-title p {
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+}
