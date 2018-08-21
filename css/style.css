@@ -112,3 +112,11 @@ p.reasons-for {
   color: #000000;
   background-color: #eeeeee;
 }
+
+.reasons-block .reasons-text {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  color: #333333;
+  background-color: #eeeeee;
+}
