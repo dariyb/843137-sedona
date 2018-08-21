@@ -167,3 +167,12 @@ p.reasons-for {
   background-color: #f2f2f2;
   border: none;
 }
+
+.find-results {
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #81b3d2;
+  border: none;
+}
