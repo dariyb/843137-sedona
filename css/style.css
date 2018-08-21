@@ -197,3 +197,24 @@ p.reasons-for {
   color: #000000;
   background-color: rgba(254, 254, 254, 0.9);
 }
+
+.hashtag {
+  font-size: 21px;
+  line-height: 26px;
+  color: #000000;
+  font-weight: 700;
+  background-color: rgba(254, 254, 254, 0.9);
+}
+
+.footer-social {
+  font: ingerit;
+  text-align: center;
+}
+
+.footer-copyright {
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #000000;
+  background-color: rgba(254, 254, 254, 0.9);
+}
