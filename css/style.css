@@ -45,3 +45,12 @@ p.intro {
   background-color: #ffffff;
   text-align: center;
 }
+
+p.reasons-for {
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #333333;
+  background-color: #ffffff;
+  text-align: center;
+}
