@@ -220,6 +220,15 @@ p.reasons-for {
   text-transform: uppercase;
 }
 
+.find-results:hover, .find-results:focus {
+  color: #ffffff;
+  background-color: #669ec0;
+}
+
+.find-results:active {
+  color: rgba(255, 255, 255, 0.3);
+}
+
 .main-footer {
   color: #000000;
   background-color: rgba(254, 254, 254, 0.9);
