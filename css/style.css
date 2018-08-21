@@ -29,3 +29,7 @@ a {
 .site-navigation a {
   color: #000000;
 }
+
+.site-navigation a:hover, .site-navigation a:focus {
+  color: #81b3d2;
+}
