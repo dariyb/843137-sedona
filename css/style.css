@@ -79,6 +79,7 @@ p.reasons-for {
 }
 
 .reasons-list {
+  list-style: none;
   background-color: #ffffff;
 }
 
