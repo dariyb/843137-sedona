@@ -162,7 +162,7 @@ p.reasons-for {
   background-color: #ffffff;
 }
 
-.search-item-text {
+.search-item-text, .search-calendar {
   font: inherit;
   background-color: #f2f2f2;
   border: none;
