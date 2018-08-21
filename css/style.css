@@ -118,3 +118,7 @@ a {
   border: none;
   text-transform: uppercase;
 }
+
+.search-for-hotel:hover, .search-for-hotel:focus {
+  background-color: #604e43;
+}
