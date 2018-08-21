@@ -137,7 +137,7 @@ a {
 }
 
 .search-item-text {
-  font: ingerit;
+  font: inherit;
   background-color: #f2f2f2;
   border: none;
 }
