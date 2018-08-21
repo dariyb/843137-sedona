@@ -34,8 +34,17 @@ a {
   color: #81b3d2;
 }
 
-.container {
-  background-image: url("img/maun.jpg");
-  background-repeat: no-repeat;
-  background-position: center top;
+.intro {
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 700;
+  color: #000000;
+  text-align: center;
+}
+
+.reasons-for {
+  font-size: 14px;
+  line-height: 26px;
+  color: #81b3d2;
+  text-align: center;
 }
