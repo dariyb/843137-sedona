@@ -152,7 +152,8 @@ a {
   border: 2px solid #e5e5e5;
 }
 
-.search-calendar {
+.search-calendar svg {
+  fill: #a9a9a9;
   background-color: #e5e5e5;
   border: none;
 }
