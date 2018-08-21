@@ -154,6 +154,16 @@ p.reasons-for {
   border: none;
 }
 
+.search-for-hotel:hover, .search-for-hotel:focus {
+  background-color: #766357;
+  color: #ffffff;
+}
+
+.search-for-hotel:active {
+  color: #928a85;
+  background-color: #503e33;
+}
+
 .search-item {
   font-size: 14px;
   line-height: 26px;
@@ -166,6 +176,15 @@ p.reasons-for {
   font: inherit;
   background-color: #f2f2f2;
   border: none;
+}
+
+.search-item-text:hover {
+  background-color: #ebebeb;
+}
+
+.search-item-text:focus {
+  background-color: transparent;
+  border: 2px solid #e5e5e5;
 }
 
 .search-calendar {
