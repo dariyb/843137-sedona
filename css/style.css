@@ -48,3 +48,15 @@ a {
   color: #333333;
   text-align: center;
 }
+
+.reasons-unit {
+  color: #ffffff;
+  background-color: #81b3d2;
+}
+
+.reasons-legend h3 {
+  font-size: 21px;
+  line-height: 21px;
+  font-weight: 700;
+  color: #ffffff;
+}
