@@ -204,3 +204,8 @@ a {
   color: rgba(255, 255, 255, 0.3);
   background-color: #5496bd;
 }
+
+.main-footer {
+  background-color: rgba(254, 254, 254, 0.9);
+  text-align: center;
+}
