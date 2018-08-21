@@ -37,11 +37,6 @@ a {
   color: rgba(0, 0, 0, 0.3);
 }
 
-.filter-search {
-  border: none;
-  background-image: url("blurr.jpg") no-repeat;
-}
-
 p.intro {
   font-size: 21px;
   line-height: 26px;
@@ -232,6 +227,10 @@ p.reasons-for {
 
 .find-results:active {
   color: rgba(255, 255, 255, 0.3);
+}
+
+.filter {
+  background: url("blurr.jpg") no-repeat;
 }
 
 .main-footer {
