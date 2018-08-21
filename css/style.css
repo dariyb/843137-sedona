@@ -122,3 +122,8 @@ a {
 .search-for-hotel:hover, .search-for-hotel:focus {
   background-color: #604e43;
 }
+
+.search-for-hotel:active {
+  color: rgba(255, 255, 255. 0.3);
+  background-color: #503e33;
+}
