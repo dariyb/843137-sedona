@@ -37,6 +37,10 @@ a {
   color: rgba(0, 0, 0, 0.3);
 }
 
+.filter-search {
+  background-image: url("blurr.jpg") no-repeat;
+}
+
 p.intro {
   font-size: 21px;
   line-height: 26px;
