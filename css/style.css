@@ -151,3 +151,8 @@ a {
   background-color: transparent;
   border: 2px solid #e5e5e5;
 }
+
+.search-calendar {
+  background-color: #e5e5e5;
+  border: none;
+}
