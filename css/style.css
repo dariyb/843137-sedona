@@ -209,3 +209,15 @@ a {
   background-color: rgba(254, 254, 254, 0.9);
   text-align: center;
 }
+
+.hashtag {
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 700;
+  color: #000000;
+}
+
+.footer-social ul {
+  font: inherit;
+  list-style: none;
+}
