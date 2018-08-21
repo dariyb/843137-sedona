@@ -195,3 +195,12 @@ a {
   text-transform: uppercase;
   border: none;
 }
+
+.find-results:hover, .find-results:focus {
+  background-color: #669ec0;
+}
+
+.find-results:active {
+  color: rgba(255, 255, 255, 0.3);
+  background-color: #5496bd;
+}
