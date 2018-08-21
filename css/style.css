@@ -74,3 +74,15 @@ a {
   color: #000000;
   text-align: center;
 }
+
+.reasons-unit-2 {
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+.reasons-block h3 {
+  font-size: 21px;
+  line-height: 21px;
+  font-weight: 700;
+  color: #000000;
+}
