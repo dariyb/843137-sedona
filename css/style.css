@@ -206,6 +206,7 @@ a {
   font-weight: 400;
   color: #cacaca;
   background-color: #fefefe;
+  border-bottom: 1px dashed #81b3d2;
 }
 
 .search-title {
