@@ -34,6 +34,12 @@ a {
   color: #81b3d2;
 }
 
+.container {
+  background-image: url("../img/maun.jpg");
+  background-position: center top;
+  background-repeat: no-no-repeat;
+}
+
 .intro {
   font-size: 21px;
   line-height: 26px;
@@ -226,8 +232,4 @@ a {
   line-height: 26px;
   font-weight: 400;
   color: #000000;
-}
-
-.footer-copyright a svg {
-  fill: #81b3d2;
 }
