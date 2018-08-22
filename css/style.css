@@ -37,13 +37,16 @@ a {
   color: #81b3d2;
 }
 
+.inner-page {
+  background-color: #fefefe;
+  background-image: url("../img/blurr.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
 .logo-s {
   display: block;
   margin: 0 auto;
-}
-
-.filter-search {
-  background: url("../img/blurr.jpg") no-repeat center top;
 }
 
 .intro {
