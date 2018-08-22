@@ -186,6 +186,14 @@ a {
   line-height: 26px;
   font-weight: 700;
   color: #000000;
+  background-color: #fefefe;
+}
+
+.sorting {
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000;
+  background-color: #fefefe;
 }
 
 .search-title {
