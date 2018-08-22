@@ -88,6 +88,13 @@ a {
   text-align: center;
 }
 
+.filter-interval {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
 .reasons-for {
   font-size: 14px;
   line-height: 26px;
