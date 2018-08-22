@@ -45,6 +45,10 @@ a {
   margin: 0 auto;
 }
 
+.filter-search {
+  background: url("../img/blurr.jpg") no-repeat center top;
+}
+
 .intro {
   font-size: 21px;
   line-height: 26px;
