@@ -103,8 +103,8 @@ a {
 }
 
 .filter-range-handle svg {
+  fill: none;
   border: none;
-  background-color: transparent;
 }
 
 .filter-range-handle svg:hover {
