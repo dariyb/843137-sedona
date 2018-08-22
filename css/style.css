@@ -40,9 +40,9 @@ a {
   background-repeat: no-repeat;
 }
 
-/* .container img {
-  background-position: center top;
-} */
+.container img {
+  float: none;
+}
 
 .intro {
   font-size: 21px;
