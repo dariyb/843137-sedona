@@ -75,7 +75,14 @@ a {
   list-style: none;
 }
 
-.description-unit {
+.description-unit p {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  color: #333333;
+}
+
+.description-unit a {
   font-size: 14px;
   line-height: 21px;
   font-weight: 400;
