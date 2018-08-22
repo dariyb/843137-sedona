@@ -246,6 +246,14 @@ a {
   color: #000000;
 }
 
+.hotels-name a:hover, .hotels-name a:focus {
+  color: #81b3d2;
+}
+
+.hotels-name a:active {
+  color: #cacaca;
+}
+
 .search-results {
   font-size: 21px;
   line-height: 26px;
