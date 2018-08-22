@@ -236,6 +236,10 @@ a {
   list-style: none;
 }
 
+ul a {
+  color: #000000;
+}
+
 .footer-copyright b {
   font-size: 14px;
   line-height: 26px;
