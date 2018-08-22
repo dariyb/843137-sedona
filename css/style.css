@@ -307,6 +307,10 @@ a {
   fill: #81b3d2;
 }
 
+.down .current {
+  fill: #81b3d2;
+}
+
 .search-calendar svg {
   fill: #a9a9a9;
 }
