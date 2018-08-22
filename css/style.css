@@ -225,10 +225,6 @@ a {
   list-style: none;
 }
 
-.up svg {
-  fill: #cacaca;
-}
-
 .search-title {
   color: #ffffff;
   text-align: center;
@@ -297,6 +293,10 @@ a {
 .search-calendar {
   background-color: #e5e5e5;
   border: none;
+}
+
+.up {
+  color: #ffffff;
 }
 
 .search-calendar svg {
