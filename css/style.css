@@ -105,6 +105,8 @@ a {
 .filter-range-handle svg:hover {
   width: 22px;
   height: 24px;
+  border: none;
+  background-color: transparent;
 }
 
 .reasons-for {
