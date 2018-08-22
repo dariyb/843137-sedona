@@ -95,6 +95,13 @@ a {
   color: #ffffff;
 }
 
+.filter-interval input[type="text"] {
+  font: inherit;
+  border: none;
+  color: #ffffff;
+  background-color: transparent;
+}
+
 .reasons-for {
   font-size: 14px;
   line-height: 26px;
