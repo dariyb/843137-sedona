@@ -41,7 +41,7 @@ a {
 }
 
 .container img {
-  float: none;
+  position: center top;
 }
 
 .intro {
