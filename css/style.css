@@ -58,6 +58,13 @@ a {
   color: #ffffff;
 }
 
+.infrastructure {
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  list-style: none;
+}
+
 .logo-s {
   display: block;
   margin: 0 auto;
