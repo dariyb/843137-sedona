@@ -221,6 +221,14 @@ a {
   color: #81b3d2;
 }
 
+.sorting-direction {
+  list-style: none;
+}
+
+.sorting-direction svg {
+  color: #red;
+}
+
 .search-title {
   color: #ffffff;
   text-align: center;
