@@ -196,13 +196,16 @@ a {
   background-color: #fefefe;
 }
 
+.sorting-list {
+  list-style: none;
+}
+
 .sorting-list a {
   font-size: 12px;
   line-height: 18px;
   font-weight: 400;
-  color: #d01212;
+  color: #cacaca;
   background-color: #fefefe;
-  list-style: none;
 }
 
 .search-title {
