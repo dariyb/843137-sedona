@@ -225,8 +225,8 @@ a {
   list-style: none;
 }
 
-.sorting-direction svg {
-  color: #red;
+.up svg {
+  color: #cacaca;
 }
 
 .search-title {
