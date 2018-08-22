@@ -37,7 +37,7 @@ a {
 .container {
   background-image: url("../img/maun.jpg");
   background-position: center top;
-  background-repeat: no-no-repeat;
+  background-repeat: no-repeat;
 }
 
 .intro {
