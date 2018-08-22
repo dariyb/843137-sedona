@@ -92,6 +92,15 @@ a {
   vertical-align: middle;
 }
 
+.description-unit a:hover, .description-unit a:focus {
+  background-color: #669ec0;
+}
+
+.description-unit a:active {
+  color: rgba(255, 255, 255, 0.3);
+  background-color: #5496bd;
+}
+
 .description-unit-2 p {
   font-size: 14px;
   line-height: 21px;
