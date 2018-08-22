@@ -295,7 +295,7 @@ a {
   border: none;
 }
 
-.sorting-direction:last-child a {
+.sorting-direction .up svg {
   color: #ffffff;
 }
 
