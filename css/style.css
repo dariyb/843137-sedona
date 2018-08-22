@@ -217,6 +217,10 @@ a {
   color: #000000;
 }
 
+.sorting-list-current {
+  color: #81b3d2;
+}
+
 .search-title {
   color: #ffffff;
   text-align: center;
