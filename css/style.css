@@ -295,7 +295,7 @@ a {
   border: none;
 }
 
-.up {
+.sorting-direction:last-child a {
   color: #ffffff;
 }
 
