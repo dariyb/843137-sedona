@@ -112,6 +112,16 @@ a {
   height: 24px;
 }
 
+.show-results {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+}
+
 .reasons-for {
   font-size: 14px;
   line-height: 26px;
