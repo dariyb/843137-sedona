@@ -193,6 +193,18 @@ a {
   list-style: none;
 }
 
+.logo-a {
+  fill: #231f20;
+}
+
+.logo-a:hover, .logo-a:focus {
+  fill: #81b3d2;
+}
+
+.logo-a:active {
+  fill: #bdbbbc;
+}
+
 .hotels-name a {
   font-size: 21px;
   line-height: 26px;
