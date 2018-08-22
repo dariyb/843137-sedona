@@ -38,10 +38,21 @@ a {
 }
 
 .inner-page {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  color: #333333;
   background-color: #fefefe;
   background-image: url("../img/blurr.jpg");
   background-position: center top;
   background-repeat: no-repeat;
+}
+
+.filter-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #507aa4;
 }
 
 .logo-s {
