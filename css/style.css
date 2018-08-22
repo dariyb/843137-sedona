@@ -102,6 +102,11 @@ a {
   background-color: transparent;
 }
 
+.filter-range-handle svg:hover {
+  width: 22px;
+  height: 24px;
+}
+
 .reasons-for {
   font-size: 14px;
   line-height: 26px;
