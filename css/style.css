@@ -196,7 +196,7 @@ a {
   background-color: #fefefe;
 }
 
-.sorting-list {
+.sorting-list li {
   font-size: 12px;
   line-height: 18px;
   font-weight: 400;
