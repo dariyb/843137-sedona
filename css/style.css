@@ -120,6 +120,8 @@ a {
   color: #ffffff;
   background-color: transparent;
   border: 2px solid #ffffff;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .reasons-for {
