@@ -102,8 +102,8 @@ a {
   background-color: transparent;
 }
 
-.filter-range-handle svg {
-  fill: none;
+.filter-range-handle {
+  background-color: transparent;
   border: none;
 }
 
