@@ -127,6 +127,13 @@ a {
   background-color: #503e33;
 }
 
+.rating-number {
+  font-size: 14px;
+  line-height: 21px;
+  color: #666666;
+  background-color: #f2f2f2;
+}
+
 .logo-s {
   display: block;
   margin: 0 auto;
