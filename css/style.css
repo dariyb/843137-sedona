@@ -196,6 +196,14 @@ a {
   background-color: #fefefe;
 }
 
+.sorting-list {
+  font-size: 12px;
+  line-height: 18px;
+  color: #cacaca;
+  background-color: #fefefe;
+  list-style: none;
+}
+
 .search-title {
   color: #ffffff;
   text-align: center;
