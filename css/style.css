@@ -8,6 +8,9 @@ body {
   color: #333333;
   text-transform: uppercase;
   background-color: #ffffff;
+  background-image: url("../img/maun.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
 }
 
 a {
@@ -32,12 +35,6 @@ a {
 
 .site-navigation a:hover, .site-navigation a:focus {
   color: #81b3d2;
-}
-
-.container {
-  background-image: url("../img/maun.jpg");
-  background-position: center top;
-  background-repeat: no-repeat;
 }
 
 .logo-s {
