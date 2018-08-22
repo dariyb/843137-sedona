@@ -107,7 +107,7 @@ a {
   border: none;
 }
 
-.filter-range-handle svg:hover {
+.filter-range-handle svg:hover, .filter-range-handle svg:focus {
   width: 22px;
   height: 24px;
 }
@@ -119,6 +119,18 @@ a {
   text-transform: uppercase;
   color: #ffffff;
   background-color: transparent;
+  border: 2px solid #ffffff;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.show-results:hover, .show-results:focus {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: transparent;
+  background-color: #ffffff;
   border: 2px solid #ffffff;
   text-align: center;
   vertical-align: middle;
