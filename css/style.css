@@ -118,6 +118,15 @@ a {
   vertical-align: middle;
 }
 
+.description-unit-2 a:hover, .description-unit-2 a:focus {
+  background-color: #604e43;
+}
+
+.description-unit-2 a:active {
+  color: rgba(255, 255, 255, 0.3);
+  background-color: #503e33;
+}
+
 .logo-s {
   display: block;
   margin: 0 auto;
