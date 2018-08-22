@@ -299,6 +299,14 @@ a {
   fill: #cacaca;
 }
 
+.up:hover, .up:focus, .down:hover, .down:focus {
+  fill: #231f20;
+}
+
+.up:active, .down:active {
+  fill: #231f20;
+}
+
 .search-calendar svg {
   fill: #a9a9a9;
 }
