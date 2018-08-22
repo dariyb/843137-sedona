@@ -199,7 +199,8 @@ a {
 .sorting-list {
   font-size: 12px;
   line-height: 18px;
-  color: #cacaca;
+  font-weight: 400;
+  color: red;
   background-color: #fefefe;
   list-style: none;
 }
