@@ -295,8 +295,8 @@ a {
   border: none;
 }
 
-.up {
-  fill: #ffffff;
+.up, .down {
+  fill: #cacaca;
 }
 
 .search-calendar svg {
