@@ -37,6 +37,10 @@ a {
   color: #81b3d2;
 }
 
+.site-navigation a:active {
+  color: rgba(0, 0, 0, 0.3);
+}
+
 .site-navigation-current a {
   color: #766357;
 }
