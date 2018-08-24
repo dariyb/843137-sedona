@@ -42,13 +42,7 @@ a {
   color: #766357;
 }
 
-.inner-page {
-  font-size: 14px;
-  line-height: 21px;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: #333333;
-  background-color: #fefefe;
+.filter {
   background-image: url("../img/blurr.jpg");
   background-position: center top;
   background-repeat: no-repeat;
