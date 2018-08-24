@@ -136,12 +136,15 @@ a {
 }
 
 .logo-s {
-  background-image: url("../img/maun.jpg");
-  background-position: center top;
-  background-repeat: no-repeat;
   display: block;
   width: 458px;
   margin: 0 auto;
+}
+
+.logo-s-intro {
+  background-image: url("../img/maun.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
 }
 
 .intro {
