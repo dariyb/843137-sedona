@@ -305,7 +305,6 @@ a {
   line-height: 18px;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.3);
-  background-color: #fefefe;
   border-bottom: 1px dashed #81b3d2;
 }
 
@@ -338,7 +337,7 @@ a {
   text-align: center;
 }
 
-.search-title p {
+.search-title-text {
   font-size: 14px;
   line-height: 24px;
   color: #333333;
