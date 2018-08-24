@@ -386,6 +386,8 @@ a {
   color: #000000;
   background-color: #f2f2f2;
   border: none;
+  text-transform: uppercase;
+  line-height: 26px;
 }
 
 .search-item-text:hover {
