@@ -136,8 +136,6 @@ a {
 }
 
 .logo-s {
-  display: block;
-  margin: 0 auto;
   background-image: url("../img/maun.jpg");
   background-position: center top;
   background-repeat: no-repeat;
