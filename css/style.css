@@ -140,7 +140,7 @@ a {
   background-position: center top;
   background-repeat: no-repeat;
   display: block;
-  width: auto;
+  width: 0 auto;
   margin: 0 auto;
 }
 
