@@ -352,6 +352,7 @@ a {
 }
 
 .search-for-hotel {
+  font-family: inherit;
   font-size: 21px;
   line-height: 26px;
   font-weight: 700;
@@ -445,6 +446,7 @@ a {
 }
 
 .find-results {
+  font-family: inherit;
   font-size: 21px;
   line-height: 26px;
   font-weight: 700;
