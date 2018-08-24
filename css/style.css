@@ -278,7 +278,7 @@ a {
 }
 
 .hotels-name a:active {
-  color: #cacaca;
+  color: rgba(0, 0, 0, 0.3);
 }
 
 .search-results {
