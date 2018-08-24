@@ -8,9 +8,6 @@ body {
   color: #333333;
   text-transform: uppercase;
   background-color: #ffffff;
-  background-image: url("../img/maun.jpg");
-  background-position: center top;
-  background-repeat: no-repeat;
 }
 
 a {
@@ -141,6 +138,9 @@ a {
 .logo-s {
   display: block;
   margin: 0 auto;
+  background-image: url("../img/maun.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
 }
 
 .intro {
