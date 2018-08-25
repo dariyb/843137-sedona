@@ -560,5 +560,6 @@ ul a {
   outline: red solid 2px;
   width: 458px;
   height: 352px;
+  position: absolute;
   margin: auto;
 }
