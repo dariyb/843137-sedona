@@ -523,6 +523,12 @@ ul a {
   min-height: 57px;
 }
 
+.list-container {
+  width: 1056px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
 .site-navigation {
   outline: blue solid 2px;
   width: 1200px;
