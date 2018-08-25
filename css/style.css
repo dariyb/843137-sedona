@@ -513,6 +513,8 @@ ul a {
 }
 
 .list-container {
+  display: flex;
+  justify-content: space-between;
   width: 1056px;
   margin: 0 auto;
 }
