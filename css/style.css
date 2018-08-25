@@ -514,8 +514,7 @@ ul a {
 
 .list-container {
   width: 1056px;
-  margin-left: 73px;
-  margin-right: 73px;
+  margin: 0 auto;
 }
 
 .site-navigation {
