@@ -499,6 +499,7 @@ ul a {
   min-height: 57px;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .main-header-logo {
