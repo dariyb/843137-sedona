@@ -520,6 +520,7 @@ ul a {
 }
 
 .wrapper {
+  outline: black solid 2px;
   width: 1056px;
   margin: 0 auto;
 }
