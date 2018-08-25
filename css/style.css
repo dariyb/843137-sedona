@@ -493,6 +493,7 @@ ul a {
 
 .main-header {
   outline: black solid 2px;
+  margin-bottom: 63px;
   /* temp */
   min-height: 71px;
 }
@@ -501,13 +502,13 @@ ul a {
   outline: #dc6243 solid 2px;
   background-color: #ffffff;
   display: flex;
+  flex-direction: row;
   align-items: center;
   /* temp */
   min-height: 57px;
 }
 
 .main-header-logo {
-  display: block;
   outline: yellow solid 2px;
   width: 138;
   height: 70;
@@ -522,6 +523,8 @@ ul a {
 .site-navigation {
   outline: blue solid 2px;
   width: 1200px;
+  margin: 0;
+  padding: 0;
   /* temp */
   min-height: 57px;
 }
