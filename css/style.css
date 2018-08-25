@@ -488,3 +488,9 @@ ul a {
   font-weight: 400;
   color: #000000;
 }
+
+/* -----------------Сетка-------------- */
+
+.main-header {
+  min-height: 57px;
+}
