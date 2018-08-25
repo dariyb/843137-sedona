@@ -569,6 +569,7 @@ ul a {
   outline: green dotted 2px;
   width: 1200px;
   background-color: #ffffff;
+  display: flex;
   /* temp */
   min-height: 209px;
 }
