@@ -501,6 +501,7 @@ ul a {
   outline: #dc6243 solid 2px;
   background-color: #ffffff;
   display: flex;
+  align-items: center;
   /* temp */
   min-height: 57px;
 }
