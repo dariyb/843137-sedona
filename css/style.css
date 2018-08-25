@@ -550,6 +550,7 @@ ul a {
 
 .logo-s-intro {
   display: flex;
+  justify-content: center;
 }
 
 .logo-s {
