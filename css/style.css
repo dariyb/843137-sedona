@@ -604,8 +604,8 @@ ul a {
 
 .reasons-legend {
   outline: white dashed 2px;
-  width: 307px;
+  width: 400px;
   /* temp */
   background-color: #81b3d2;
-  min-height: 166px;
+  min-height: 256px;
 }
