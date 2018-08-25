@@ -501,6 +501,7 @@ ul a {
   outline: red solid 2px;
   display: flex;
   flex-direction: column;
+  align-items: center;
   /* temp */
   min-height: 57px;
 }
