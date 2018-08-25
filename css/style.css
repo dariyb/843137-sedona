@@ -502,6 +502,7 @@ ul a {
 .main-header-logo {
   width: 138;
   height: 70;
+  display: block;
 }
 
 .site-navigation {
