@@ -492,13 +492,13 @@ ul a {
 /* -----------------Сетка-------------- */
 
 .main-header {
-  outline-color: green;
+  outline: green solid 1px;
   margin-bottom: 72px;
   min-height: 57px;
 }
 
 .main-navigation {
-  outline-color: red;
+  outline: red solid 1px;
   min-height: 57px;
   display: flex;
   flex-direction: column;
@@ -506,7 +506,7 @@ ul a {
 }
 
 .main-header-logo {
-  outline-color: yellow;
+  outline: yellow;
   width: 138;
   height: 70;
   order: 2;
