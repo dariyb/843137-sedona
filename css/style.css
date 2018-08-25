@@ -497,12 +497,12 @@ ul a {
 
 .main-navigation {
   min-height: 57px;
+  display: flex;
 }
 
 .main-header-logo {
   width: 138;
   height: 70;
-  display: block;
 }
 
 .site-navigation {
