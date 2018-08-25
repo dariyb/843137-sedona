@@ -570,6 +570,7 @@ ul a {
   width: 1200px;
   background-color: #ffffff;
   display: flex;
+  flex-direction: column;
   /* temp */
   min-height: 209px;
 }
