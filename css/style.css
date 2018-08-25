@@ -510,3 +510,11 @@ ul a {
   width: 138;
   height: 70;
 }
+
+.site-navigation {
+  width: 1200px;
+  margin: 0;
+  padding: 0;
+  /* temp */
+  min-height: 57px;
+}
