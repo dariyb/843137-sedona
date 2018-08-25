@@ -529,6 +529,11 @@ ul a {
   padding: 20px 0;
 }
 
+.list-wrapper .list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
 .site-navigation {
   outline: blue solid 2px;
   width: 1200px;
