@@ -566,8 +566,21 @@ ul a {
 }
 
 .intro-container {
+  outline: green dotted 2px;
   width: 1200px;
   background-color: #ffffff;
   /* temp */
   min-height: 209px;
+}
+
+.intro {
+  outline: gray solid 2px;
+  /* temp */
+  min-height: 50px;
+}
+
+.reasons-for {
+  outline: yellow dotted 2px;
+  /* temp */
+  min-height: 15px;
 }
