@@ -515,9 +515,9 @@ ul a {
 
 .site-navigation {
   outline: blue solid 2px;
-  width: 1200px;
-  margin: 0;
-  padding: 0;
+  width: 100%;
+  background-color: #ffffff;
+  margin: 0 auto;
   /* temp */
   min-height: 57px;
 }
