@@ -513,7 +513,6 @@ ul a {
   height: 70;
   position: absolute;
   margin: 0 auto;
-  /* left: 527px; */
 }
 
 .list-wrapper {
@@ -544,6 +543,7 @@ ul a {
 }
 
 .container {
+  outline: yellow solid 2px;
   width: 1200px;
   margin: 0 auto;
 }
