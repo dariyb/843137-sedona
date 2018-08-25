@@ -575,12 +575,14 @@ ul a {
 
 .intro {
   outline: gray solid 2px;
+  width: 636px;
   /* temp */
   min-height: 50px;
 }
 
 .reasons-for {
   outline: yellow dotted 2px;
+  width: 490px;
   /* temp */
   min-height: 15px;
 }
