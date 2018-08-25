@@ -574,7 +574,7 @@ ul a {
   align-items: center;
   flex-wrap: wrap;
   /* temp */
-  min-height: 216px;
+  height: 216px;
 }
 
 .intro {
@@ -599,7 +599,7 @@ ul a {
   width: 1200px;
   display: flex;
   /* temp */
-  height: 256px;
+  min-height: 256px;
 }
 
 .reasons-legend {
