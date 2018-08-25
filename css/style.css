@@ -496,3 +496,9 @@ ul a {
   /* temp */
   min-height: 71px;
 }
+
+.main-navigation {
+  outline: red solid 2px;
+  /* temp */
+  min-height: 57px;
+}
