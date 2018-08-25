@@ -515,10 +515,13 @@ ul a {
   position: absolute;
 }
 
-/* .list-container {
+.list-wrapper {
   outline: blue solid 2px;
   width: 100%;
-} */
+  background-color: #ffffff;
+  /* temp */
+  min-height: 57px;
+}
 
 .site-navigation {
   outline: blue solid 2px;
