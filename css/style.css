@@ -552,10 +552,13 @@ ul a {
   outline: blue solid 2px;
   display: flex;
   justify-content: center;
+  /* ? */
+  min-height: 352px;
 }
 
 .logo-s {
   outline: red solid 2px;
   width: 458px;
-  min-height: 352px;
+  height: 352px;
+  margin: auto;
 }
