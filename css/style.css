@@ -135,7 +135,7 @@ a {
   margin: 0 auto;
 }
 
-.container {
+.logo-s-intro {
   background-image: url("../img/maun.jpg");
   background-position: center top;
   background-repeat: no-repeat;
@@ -554,7 +554,6 @@ ul a {
   justify-content: center;
   /* ? */
   min-height: 352px;
-  margin-top: 20px;
 }
 
 .logo-s {
