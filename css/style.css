@@ -498,10 +498,8 @@ ul a {
 }
 
 .main-navigation {
-  outline: red solid 2px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  outline: #dc6243 solid 2px;
+  background-color: #ffffff;
   /* temp */
   min-height: 57px;
 }
@@ -510,6 +508,7 @@ ul a {
   outline: yellow solid 2px;
   width: 138;
   height: 70;
+  position: absolute;
 }
 
 .site-navigation {
