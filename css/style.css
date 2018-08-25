@@ -507,19 +507,17 @@ ul a {
 }
 
 .main-header-logo {
+  display: block;
   outline: yellow solid 2px;
   width: 138;
   height: 70;
   position: absolute;
 }
 
-.list-container {
+/* .list-container {
   outline: blue solid 2px;
   width: 100%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-}
+} */
 
 .site-navigation {
   outline: blue solid 2px;
