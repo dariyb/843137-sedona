@@ -529,6 +529,7 @@ ul a {
 .list-container .wrapper {
   display: flex;
   justify-content: space-around;
+  outline: red dotted 2px;
 }
 
 .site-navigation {
