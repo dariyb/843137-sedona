@@ -507,11 +507,13 @@ ul a {
 }
 
 .main-header-logo {
+  outline: yellow solid 2px;
   width: 138;
   height: 70;
 }
 
 .site-navigation {
+  outline: blue solid 2px;
   width: 1200px;
   margin: 0;
   padding: 0;
