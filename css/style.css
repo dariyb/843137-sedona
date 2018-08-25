@@ -525,6 +525,11 @@ ul a {
   margin: 0 auto;
 }
 
+.list-container .wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
 .site-navigation {
   outline: black solid 1px;
   margin: 0;
