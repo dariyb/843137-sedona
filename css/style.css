@@ -493,7 +493,7 @@ ul a {
 
 .main-header {
   outline: green solid 1px;
-  min-height: 57px;
+  min-height: 71px;
 }
 
 .main-navigation {
@@ -508,7 +508,6 @@ ul a {
   outline: yellow solid 1px;
   width: 138;
   height: 70;
-  order: 2;
 }
 
 .list-container {
