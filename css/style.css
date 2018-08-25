@@ -543,3 +543,11 @@ ul a {
   /* temp */
   min-height: 57px;
 }
+
+.logo-s {
+  outline: red solid 2px;
+  width: 458px;
+  height: 352px;
+  margin-top: 62px;
+  margin-bottom: 147px;
+}
