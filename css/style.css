@@ -564,3 +564,10 @@ ul a {
   margin-top: 62px;
   margin-bottom: 80px;
 }
+
+.intro-container {
+  width: 1200px;
+  background-color: #ffffff;
+  /* temp */
+  min-height: 209px;
+}
