@@ -589,7 +589,7 @@ ul a {
 .reasons-for {
   outline: yellow dotted 2px;
   width: 490px;
-  margin-bottom: 56px;
+  /* margin-bottom: 56px; */
   /* temp */
   min-height: 15px;
 }
