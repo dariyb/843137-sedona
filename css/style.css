@@ -571,6 +571,7 @@ ul a {
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
+  align-items: center;
   /* temp */
   min-height: 209px;
 }
