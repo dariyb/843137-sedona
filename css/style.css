@@ -493,6 +493,7 @@ ul a {
 
 .main-header {
   outline: black solid 2px;
+  background-color: rgba(129, 179, 210, 0.3);
   /* temp */
   min-height: 71px;
 }
@@ -501,4 +502,9 @@ ul a {
   outline: red solid 2px;
   /* temp */
   min-height: 57px;
+}
+
+.main-header-logo {
+  width: 138;
+  height: 70;
 }
