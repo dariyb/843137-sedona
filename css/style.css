@@ -574,7 +574,7 @@ ul a {
   align-items: center;
   flex-wrap: wrap;
   /* temp */
-  height: 216px;
+  min-height: 216px;
 }
 
 .intro {
