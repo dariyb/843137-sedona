@@ -512,6 +512,11 @@ ul a {
   order: 2;
 }
 
+.container {
+  width: 1056px;
+  margin: 0 auto;
+}
+
 .site-navigation {
   outline: black solid 1px;
   margin: 0;
