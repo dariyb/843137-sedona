@@ -596,6 +596,8 @@ ul a {
 
 .reasons-unit {
   outline: black solid 2px;
+  width: 1200px;
   /* temp */
   background-color: #81b3d2;
+  min-height: 256px;
 }
