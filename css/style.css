@@ -493,13 +493,13 @@ ul a {
 
 .main-header {
   outline: black solid 2px;
-  background-color: rgba(129, 179, 210, 0.3);
   /* temp */
   min-height: 71px;
 }
 
 .main-navigation {
   outline: red solid 2px;
+  display: flex;
   /* temp */
   min-height: 57px;
 }
