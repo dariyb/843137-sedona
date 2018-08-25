@@ -206,7 +206,7 @@ a {
 
 .reasons-unit {
   color: #ffffff;
-  background-color: #81b3d2;
+  /* background-color: #81b3d2; */
   text-align: center;
 }
 
@@ -598,7 +598,6 @@ ul a {
   outline: black solid 2px;
   width: 1200px;
   display: flex;
-  margin: 0;
   /* temp */
   height: 256px;
 }
