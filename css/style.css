@@ -527,7 +527,6 @@ ul a {
   width: 1056px;
   margin-left: 73px;
   margin-right: 73px;
-  /* padding: 20px 0; */
 }
 
 .list-wrapper .list-container {
@@ -546,6 +545,7 @@ ul a {
 
 .logo-s-intro {
   outline: red solid 2px;
+  width: 458px;
   min-height: 352px;
   margin-top: 62px;
   margin-bottom: 147px;
