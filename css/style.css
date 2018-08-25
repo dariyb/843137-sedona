@@ -619,3 +619,8 @@ ul a {
   margin-left: 46px;
   margin-right: 46px;
 }
+
+.reasons-image {
+  width: 800;
+  min-height: 256px;
+}
