@@ -609,3 +609,13 @@ ul a {
   background-color: #81b3d2;
   min-height: 256px;
 }
+
+.wrapper {
+  outline: gray dashed 2px;
+  width: 307px;
+  min-height: 166px;
+  margin-top: 48px;
+  margin-bottom: 39px;
+  margin-left: 46px;
+  margin-right: 46px;
+}
