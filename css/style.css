@@ -515,6 +515,7 @@ ul a {
 .list-container {
   outline: blue solid 2px;
   width: 100%;
+  min-height: 57px;
   margin-bottom: 72px;
   background-color: #ffffff;
 }
