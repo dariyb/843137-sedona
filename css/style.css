@@ -135,7 +135,7 @@ a {
   margin: 0 auto;
 }
 
-.container {
+.logo-s-intro {
   background-image: url("../img/maun.jpg");
   background-position: center top;
   background-repeat: no-repeat;
@@ -541,11 +541,6 @@ ul a {
   padding: 0;
   /* temp */
   min-height: 57px;
-}
-
-.container {
-  width: 1200px;
-  margin: 0;
 }
 
 /* .logo-s {
