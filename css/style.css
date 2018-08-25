@@ -548,6 +548,10 @@ ul a {
   margin: 0 auto;
 }
 
+.logo-s-intro {
+  display: flex;
+}
+
 .logo-s {
   outline: red solid 2px;
   width: 458px;
