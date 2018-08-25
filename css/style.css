@@ -598,6 +598,7 @@ ul a {
   outline: black solid 2px;
   width: 1200px;
   display: flex;
+  margin: 0;
   /* temp */
   height: 256px;
 }
