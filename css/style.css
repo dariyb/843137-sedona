@@ -490,3 +490,9 @@ ul a {
 }
 
 /* -----------------Сетка-------------- */
+
+.main-header {
+  outline: black solid 2px;
+  /* temp */
+  min-height: 71px;
+}
