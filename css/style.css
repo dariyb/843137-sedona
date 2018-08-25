@@ -513,11 +513,17 @@ ul a {
   position: absolute;
 }
 
-.site-navigation {
+.list-container {
   outline: blue solid 2px;
   width: 100%;
-  background-color: #ffffff;
   margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-navigation {
+  outline: blue solid 2px;
+  width: 1200px;
   /* temp */
   min-height: 57px;
 }
