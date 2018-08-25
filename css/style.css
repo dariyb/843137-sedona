@@ -498,6 +498,7 @@ ul a {
 .main-navigation {
   min-height: 57px;
   display: flex;
+  flex-direction: column;
 }
 
 .main-header-logo {
