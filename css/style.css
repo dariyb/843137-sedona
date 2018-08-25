@@ -600,3 +600,11 @@ ul a {
   /* temp */
   min-height: 256px;
 }
+
+.reasons-legend {
+  outline: white dashed 2px;
+  width: 400px;
+  /* temp */
+  background-color: #81b3d2;
+  min-height: 256px;
+}
