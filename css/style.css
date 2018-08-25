@@ -500,6 +500,7 @@ ul a {
 .main-navigation {
   outline: red solid 2px;
   display: flex;
+  flex-direction: column;
   /* temp */
   min-height: 57px;
 }
