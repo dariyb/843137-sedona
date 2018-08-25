@@ -516,6 +516,12 @@ ul a {
   outline: blue solid 2px;
   width: 100%;
   margin-bottom: 72px;
+  background-color: #ffffff;
+}
+
+.wrapper {
+  width: 1056px;
+  margin: 0 auto;
 }
 
 .site-navigation {
