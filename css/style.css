@@ -549,6 +549,7 @@ ul a {
 }
 
 .logo-s-intro {
+  outline: blue solid 2px;
   display: flex;
   justify-content: center;
 }
