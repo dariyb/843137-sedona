@@ -621,6 +621,7 @@ ul a {
   display: flex;
   flex-direction: column;
   min-height: 453px;
+  overflow: hidden;
 }
 
 .results-list-item {
