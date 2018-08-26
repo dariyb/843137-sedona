@@ -674,5 +674,7 @@ ul a {
 .search-wrapper {
   outline: black dotted 1px;
   width: 636px;
+  display: flex;
   min-height: 146px;
+  margin: 0;
 }
