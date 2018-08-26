@@ -615,6 +615,14 @@ ul a {
   margin-left: 494px;
 }
 
+.content {
+  outline: blue solid 2px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  min-height: 453px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
