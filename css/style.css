@@ -670,3 +670,10 @@ ul a {
   margin-right: 282px;
   min-height: 232px;
 }
+
+.search-wrapper {
+  outline: black dotted 1px;
+  width: 636px;
+  margin: 0;
+  min-height: 146px;
+}
