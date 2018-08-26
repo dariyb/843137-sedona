@@ -546,7 +546,6 @@ ul a {
   outline: blue solid 2px;
   width: 1200px;
   display: flex;
-  flex-direction: column;
   min-height: 204px;
   /* поднять фон? */
 }
@@ -562,6 +561,13 @@ ul a {
   outline: black dotted 1px;
   width: 288px;
   min-height: 204px;
+}
+
+.filter-price {
+  outline: black dashed 1px;
+  width: 328px;
+  min-height: 204px;
+  margin-left: auto;
 }
 
 .container {
