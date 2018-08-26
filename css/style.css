@@ -626,8 +626,9 @@ ul a {
 .results-list-item {
   outline: black solid 1px;
   width: 1056px;
-  min-height: 152px;
+  display: flex;
   flex-direction: row;
+  min-height: 152px;
 }
 
 .results-image {
