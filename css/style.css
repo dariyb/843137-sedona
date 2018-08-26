@@ -631,7 +631,7 @@ ul a {
   display: flex;
   margin-top: 58px;
   margin-bottom: 0;
-  justify-content: center;
+  margin-left: 47px;
   width: 1105px;
   min-height: 274px;
 }
