@@ -674,6 +674,5 @@ ul a {
 .search-wrapper {
   outline: black dotted 1px;
   width: 636px;
-  justify-content: flex-start;
   min-height: 146px;
 }
