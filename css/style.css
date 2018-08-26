@@ -685,7 +685,7 @@ ul a {
 
 .search-for-hotel {
   width: 568px;
-  align-items: center;
   background-color: #766357;
+  margin: 0 316px;
   min-height: 86px;
 }
