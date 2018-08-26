@@ -547,6 +547,7 @@ ul a {
   width: 1200px;
   display: flex;
   min-height: 204px;
+  background-color: transparent;
 }
 
 .container {
