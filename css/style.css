@@ -643,6 +643,12 @@ ul a {
   min-height: 59px;
 }
 
+.rating-box {
+  outline: black dashed 1px;
+  width: 241px;
+  min-height: 152px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
