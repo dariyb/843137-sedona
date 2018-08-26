@@ -699,3 +699,8 @@ ul a {
   background-color: #ffffff;
   min-height: 395px;
 }
+
+.find-results {
+  width: 458px;
+  min-height: 58px;
+}
