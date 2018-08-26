@@ -692,5 +692,7 @@ ul a {
 
 .search-form {
   outline: yellow dashed 1px;
-  display: none;
+  width: 568px;
+  background-color: #ffffff;
+  min-height: 395px;
 }
