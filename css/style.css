@@ -553,10 +553,15 @@ ul a {
 
 .filter-infrastructure {
   outline: black solid 1px;
-  width: 221px;
-  min-height: 154px;
-  margin: auto;
+  width: 241px;
+  min-height: 204px;
   margin-left: 73px;
+}
+
+.filter-housing {
+  outline: black dotted 1px;
+  width: 288px;
+  min-height: 204px;
 }
 
 .container {
