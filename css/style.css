@@ -629,6 +629,12 @@ ul a {
   min-height: 152px;
 }
 
+.results-image {
+  width: 135px;
+  min-height: 90px;
+  margin-left: 73px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
