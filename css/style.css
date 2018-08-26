@@ -49,7 +49,7 @@ a {
 }
 
 .filter-search {
-  background-color: ##507aa4;
+  background-color: #507aa4;
 }
 
 .filter-search fieldset {
@@ -540,6 +540,12 @@ ul a {
   padding: 0;
   /* temp */
   min-height: 57px;
+}
+
+.filter-search {
+  width: 1200px;
+  display: flex;
+  min-height: 204px;
 }
 
 .container {
