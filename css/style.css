@@ -555,6 +555,7 @@ ul a {
   outline: black solid 1px;
   width: 221px;
   min-height: 154px;
+  margin: auto;
   margin-left: 73px;
 }
 
