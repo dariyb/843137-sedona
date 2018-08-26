@@ -632,5 +632,6 @@ ul a {
   display: flex;
   margin: auto;
   margin-top: 56px;
+  align-items: baseline;
   min-height: 274px;
 }
