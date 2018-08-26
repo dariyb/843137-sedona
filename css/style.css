@@ -695,6 +695,7 @@ ul a {
   width: 568px;
   display: flex;
   flex-direction: column;
+  margin: 0 316px;
   background-color: #ffffff;
   min-height: 395px;
 }
