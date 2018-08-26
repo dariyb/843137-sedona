@@ -717,6 +717,7 @@ ul a {
 .main-footer {
   outline: blue solid 2px;
   background-color: rgba(255, 255, 255, 0.9);
+  padding: 37px 0;
   min-height: 120px;
 }
 
