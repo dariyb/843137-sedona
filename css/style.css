@@ -582,6 +582,13 @@ ul a {
   min-height: 87px;
 }
 
+.search-results {
+  outline: gray solid 1px;
+  width: 115px;
+  margin-left: 73px;
+  min-height: 58px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
