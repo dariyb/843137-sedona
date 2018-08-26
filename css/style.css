@@ -629,7 +629,7 @@ ul a {
 .reason-image {
   width: 800;
   min-height: 400;
-  order: 1;
+  order: -1;
 }
 
 .reasons-list {
