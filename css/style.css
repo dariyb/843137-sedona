@@ -628,8 +628,6 @@ ul a {
 
 .reasons-list {
   outline: red dotted 2px;
-  display: flex;
   width: 1105px;
-  justify-content: center;
   min-height: 274px;
 }
