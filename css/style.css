@@ -664,5 +664,6 @@ ul a {
   outline: green solid 1px;
   width: 636px;
   display: flex;
+  flex-direction: column;
   min-height: 232px;
 }
