@@ -663,5 +663,6 @@ ul a {
 .search-container {
   outline: green solid 1px;
   width: 636px;
+  display: flex;
   min-height: 232px;
 }
