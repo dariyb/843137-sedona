@@ -743,6 +743,7 @@ ul a {
 }
 
 .footer-container {
+  outline: purple solid 2px;
   display: flex;
   justify-content: space-around;
 }
