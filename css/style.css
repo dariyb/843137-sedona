@@ -709,8 +709,7 @@ ul a {
 .map-image {
   width: 1200px;
   height: 748px;
-  margin-top: 0;
-  margin-right: 50px;
+  margin: auto;
   padding: 0;
   overflow: hidden;
 }
