@@ -648,6 +648,11 @@ ul a {
   outline: blue dashed 2px;
   width: 1200px;
   display: flex;
-  justify-content: space-between;
   min-height: 256px;
+}
+
+.reasons-block {
+  outline: gray dotted 2px;
+  width: 313px;
+  min-height: 166px;
 }
