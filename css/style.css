@@ -585,7 +585,25 @@ ul a {
 .search-results {
   outline: gray solid 1px;
   width: 115px;
-  margin-left: 73px;
+  /* margin-left: 73px; */
+  min-height: 58px;
+}
+
+.sorting {
+  outline: gray dotted 1px;
+  width: 84px;
+  min-height: 58px;
+}
+
+.sorting-list {
+  outline: gray dashed 1px;
+  width: 258px;
+  min-height: 58px;
+}
+
+.sorting-direction {
+  outline: gray solid 1px;
+  width: 35px;
   min-height: 58px;
 }
 
