@@ -571,6 +571,13 @@ ul a {
   margin-right: 73px;
 }
 
+.filter-results {
+  outline: green solid 2px;
+  width: 1200px;
+  display: flex;
+  min-height: 87px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
