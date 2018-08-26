@@ -598,16 +598,9 @@ ul a {
   outline: black solid 2px;
   width: 1200px;
   display: flex;
+  overflow: hidden;
   height: 256px;
 }
-
-/* .reason-unit {
-  outline: black solid 2px;
-  width: 1200px;
-  display: flex;
-  flex-direction: row-reverse;
-  height: 256px;
-} */
 
 .reasons-legend {
   outline: white dashed 2px;
@@ -630,8 +623,13 @@ ul a {
 .reasons-image {
   width: 800;
   min-height: 256px;
-  overflow: hidden;
   /* поднять вверх? */
+}
+
+.reason-image {
+  width: 800;
+  min-height: 400;
+  order: 1;
 }
 
 .reasons-list {
