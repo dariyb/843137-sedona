@@ -601,6 +601,14 @@ ul a {
   height: 256px;
 }
 
+.reason-unit {
+  outline: black solid 2px;
+  width: 1200px;
+  display: flex;
+  flex-direction: row-reverse;
+  height: 256px;
+}
+
 .reasons-legend {
   outline: white dashed 2px;
   width: 400px;
