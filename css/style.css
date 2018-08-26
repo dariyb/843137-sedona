@@ -689,3 +689,8 @@ ul a {
   margin: 0 316px;
   min-height: 86px;
 }
+
+.search-form {
+  outline: yellow dashed 1px;
+  display: none;
+}
