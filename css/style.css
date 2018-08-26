@@ -579,7 +579,6 @@ ul a {
   outline: green solid 2px;
   width: 1200px;
   display: flex;
-  justify-content: space-around;
   min-height: 87px;
 }
 
@@ -594,6 +593,7 @@ ul a {
   outline: gray dotted 1px;
   width: 84px;
   min-height: 58px;
+  align-self: center;
 }
 
 .sorting-list {
