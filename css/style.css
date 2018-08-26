@@ -723,18 +723,25 @@ ul a {
 
 .hashtag {
   outline: red dotted 1px;
+  width: 135px;
   min-height: 23px;
   margin: 0;
 }
 
 .footer-social {
   outline: green solid 1px;
+  width: 150px;
   min-height: 48px;
   margin: 0;
 }
 
 .footer-copyright {
   outline: gray solid 2px;
+  width: 195px;
   min-height: 41px;
   margin: 0;
+}
+
+.footer-container {
+  display: flex;
 }
