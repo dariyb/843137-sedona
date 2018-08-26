@@ -741,6 +741,7 @@ ul a {
   width: 195px;
   min-height: 41px;
   margin: 0;
+  align-self: center;
 }
 
 .footer-container {
