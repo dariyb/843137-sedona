@@ -810,6 +810,9 @@ ul a {
   margin: 0 316px;
   background-color: #ffffff;
   min-height: 395px;
+  position: absolute;
+  left: 316px;
+  bottom: 198px;
 }
 
 .find-results {
