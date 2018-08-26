@@ -629,5 +629,7 @@ ul a {
 .reasons-list {
   outline: red dotted 2px;
   width: 1105px;
+  display: flex;
+  margin: auto;
   min-height: 274px;
 }
