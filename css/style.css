@@ -665,7 +665,6 @@ ul a {
   width: 636px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
   margin-top: 53px;
   margin-left: 282px;
   margin-right: 282px;
@@ -675,6 +674,6 @@ ul a {
 .search-wrapper {
   outline: black dotted 1px;
   width: 636px;
-  margin-top: 0;
+  justify-content: flex-start;
   min-height: 146px;
 }
