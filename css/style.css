@@ -659,3 +659,9 @@ ul a {
   margin: auto;
   min-height: 166px;
 }
+
+.search-container {
+  outline: green solid 1px;
+  width: 636px;
+  min-height: 232px;
+}
