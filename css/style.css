@@ -627,6 +627,7 @@ ul a {
   outline: black solid 1px;
   width: 1056px;
   min-height: 152px;
+  flex-direction: row;
 }
 
 .results-image {
@@ -638,7 +639,6 @@ ul a {
 .results-description {
   outline: black dotted 1px;
   width: 544px;
-  flex-direction: row;
   min-height: 59px;
 }
 
