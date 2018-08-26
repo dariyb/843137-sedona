@@ -592,7 +592,7 @@ ul a {
 
 .sorting {
   outline: gray dotted 1px;
-  width: 84px;
+  width: 86px;
   min-height: 58px;
   margin-top: 11px;
 }
@@ -602,6 +602,7 @@ ul a {
   width: 258px;
   min-height: 58px;
   margin-top: 11px;
+  margin-left: 29px;
 }
 
 .sorting-direction {
