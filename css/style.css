@@ -655,5 +655,6 @@ ul a {
 .reasons-block {
   outline: gray dotted 2px;
   width: 313px;
+  margin: auto;
   min-height: 166px;
 }
