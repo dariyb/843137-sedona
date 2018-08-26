@@ -630,6 +630,7 @@ ul a {
   width: 800;
   min-height: 400;
   order: -1;
+  /* убрать зазор,поднять? */
 }
 
 .reasons-list {
@@ -641,4 +642,11 @@ ul a {
   align-items: baseline;
   background-color: #ffffff;
   min-height: 274px;
+}
+
+.reasons-unit-2 {
+  outline: blue dashed 2px;
+  width: 1200px;
+  display: flex;
+  min-height: 256px;
 }
