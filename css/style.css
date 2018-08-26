@@ -726,6 +726,7 @@ ul a {
   width: 135px;
   min-height: 23px;
   margin: 0;
+  align-self: center;
 }
 
 .footer-social {
