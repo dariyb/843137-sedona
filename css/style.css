@@ -548,6 +548,14 @@ ul a {
   display: flex;
   flex-direction: column;
   min-height: 204px;
+  /* поднять фон? */
+}
+
+.filter-infrastructure {
+  outline: black solid 1px;
+  width: 221px;
+  min-height: 154px;
+  margin-left: 73px;
 }
 
 .container {
