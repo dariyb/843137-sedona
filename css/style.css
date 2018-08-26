@@ -665,5 +665,6 @@ ul a {
   width: 636px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   min-height: 232px;
 }
