@@ -546,6 +546,7 @@ ul a {
   outline: blue solid 2px;
   width: 1200px;
   display: flex;
+  flex-direction: column;
   min-height: 204px;
   background-color: transparent;
 }
