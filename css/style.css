@@ -702,5 +702,6 @@ ul a {
 
 .find-results {
   width: 458px;
+  margin: auto;
   min-height: 58px;
 }
