@@ -694,6 +694,7 @@ ul a {
   outline: yellow dashed 1px;
   width: 568px;
   display: flex;
+  flex-direction: column;
   background-color: #ffffff;
   min-height: 395px;
 }
