@@ -616,7 +616,6 @@ ul a {
 }
 
 .results-list {
-  outline: blue solid 2px;
   width: 1200px;
   display: flex;
   flex-direction: column;
