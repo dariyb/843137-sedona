@@ -662,7 +662,7 @@ ul a {
 
 .search-container {
   outline: green solid 1px;
-  width: 636px;
+  width: 1200px;
   display: flex;
   flex-direction: column;
   margin-top: 53px;
