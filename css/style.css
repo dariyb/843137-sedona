@@ -623,4 +623,12 @@ ul a {
   width: 800;
   min-height: 256px;
   overflow: hidden;
+  /* поднять вверх? */
+}
+
+.reasons-list {
+  outline: red dotted 2px;
+  display: flex;
+  width: 1105px;
+  min-height: 274px;
 }
