@@ -679,6 +679,12 @@ ul a {
   min-height: 146px;
 }
 
-/* .search-title-vacation {
+.search-title-vacation {
   margin-top: 0;
-} */
+}
+
+.search-for-hotel {
+  width: 568px;
+  background-color: #766357;
+  min-height: 86px;
+}
