@@ -667,5 +667,7 @@ ul a {
   flex-direction: column;
   justify-content: center;
   margin-top: 53px;
+  margin-left: 282px;
+  margin-right: 282px;
   min-height: 232px;
 }
