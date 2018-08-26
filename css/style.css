@@ -635,6 +635,12 @@ ul a {
   margin-left: 73px;
 }
 
+.results-description {
+  outline: black dotted 1px;
+  width: 544px;
+  min-height: 59px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
