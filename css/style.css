@@ -622,5 +622,6 @@ ul a {
 
 .reasons-image {
   width: 800;
-  height: 256px;
+  min-height: 256px;
+  overflow: hidden;
 }
