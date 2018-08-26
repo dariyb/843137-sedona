@@ -719,3 +719,21 @@ ul a {
   background-color: rgba(255, 255, 255, 0.9);
   min-height: 120px;
 }
+
+.hashtag {
+  outline: red dotted 1px;
+  min-height: 23px;
+  margin: 0;
+}
+
+.footer-social {
+  outline: green solid 1px;
+  min-height: 48px;
+  margin: 0;
+}
+
+.footer-copyright {
+  outline: gray solid 2px;
+  min-height: 41px;
+  margin: 0;
+}
