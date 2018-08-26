@@ -630,6 +630,7 @@ ul a {
   width: 1056px;
   display: flex;
   flex-direction: row;
+  margin: 0 auto;
   min-height: 152px;
 }
 
