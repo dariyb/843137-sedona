@@ -585,7 +585,8 @@ ul a {
 .search-results {
   outline: gray solid 1px;
   width: 115px;
-  /* margin-left: 73px; */
+  margin-top: 11px;
+  margin-left: 73px;
   min-height: 58px;
 }
 
@@ -593,19 +594,21 @@ ul a {
   outline: gray dotted 1px;
   width: 84px;
   min-height: 58px;
-  align-self: center;
+  margin-top: 11px;
 }
 
 .sorting-list {
   outline: gray dashed 1px;
   width: 258px;
   min-height: 58px;
+  margin-top: 11px;
 }
 
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
   min-height: 58px;
+  margin-top: 11px;
 }
 
 .container {
