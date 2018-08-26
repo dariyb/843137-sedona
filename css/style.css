@@ -705,3 +705,9 @@ ul a {
   margin: auto;
   min-height: 58px;
 }
+
+.map-image {
+  width: 1200px;
+  min-height: 748px;
+  overflow: hidden;
+}
