@@ -665,10 +665,6 @@ ul a {
   width: 1200px;
   display: flex;
   flex-direction: column;
-  margin-top: 53px;
-  margin-left: 282px;
-  margin-right: 282px;
-  min-height: 232px;
 }
 
 .search-wrapper {
