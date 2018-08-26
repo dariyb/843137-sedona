@@ -623,6 +623,12 @@ ul a {
   min-height: 453px;
 }
 
+.results-list-item {
+  outline: black solid 1px;
+  width: 1056px;
+  min-height: 152px;
+}
+
 .container {
   outline: yellow solid 2px;
   width: 1200px;
