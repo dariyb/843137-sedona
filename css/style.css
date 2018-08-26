@@ -621,7 +621,6 @@ ul a {
   display: flex;
   flex-direction: column;
   min-height: 453px;
-  overflow: hidden;
 }
 
 .results-list-item {
@@ -648,6 +647,7 @@ ul a {
   outline: black dashed 1px;
   width: 241px;
   min-height: 152px;
+  margin-left: 88px;
 }
 
 .container {
