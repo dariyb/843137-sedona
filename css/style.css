@@ -599,7 +599,7 @@ ul a {
   width: 1200px;
   display: flex;
   /* temp */
-  height: 256px;
+  min-height: 256px;
 }
 
 .reasons-legend {
