@@ -559,6 +559,8 @@ ul a {
   outline: green solid 2px;
   display: flex;
   min-height: 87px;
+  padding-left: 72px;
+  padding-right: 72px;
 }
 
 .search-results {
