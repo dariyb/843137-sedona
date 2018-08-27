@@ -533,7 +533,6 @@ ul a {
   width: 1200px;
   display: flex;
   min-height: 204px;
-  /* поднять фон? */
 }
 
 .filter-infrastructure {
@@ -645,7 +644,6 @@ ul a {
 .logo-s-intro {
   outline: blue solid 2px;
   padding-top: 62px;
-  /* ? */
   min-height: 497px;
 }
 
@@ -722,12 +720,11 @@ ul a {
   padding-top: 56px;
   align-items: baseline;
   background-color: #ffffff;
-  justify-content: space-around;
   min-height: 274px;
 }
 
 .reasons-list-item {
-  width: 304px;
+  width: 400px;
 }
 
 .reasons-unit-2 {
