@@ -718,11 +718,10 @@ ul a {
 
 .reasons-list {
   outline: red dotted 2px;
-  width: 1105px;
   display: flex;
-  margin: auto;
-  margin-top: 56px;
+  margin: 0;
   padding-left: 0;
+  padding-top: 56px;
   align-items: baseline;
   background-color: #ffffff;
   min-height: 274px;
