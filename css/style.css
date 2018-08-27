@@ -586,6 +586,10 @@ ul a {
   padding-top: 38px;
 }
 
+.sorting-list li {
+  width: 96px;
+}
+
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
