@@ -722,6 +722,7 @@ ul a {
   display: flex;
   margin: auto;
   margin-top: 56px;
+  padding-left: 0;
   align-items: baseline;
   background-color: #ffffff;
   min-height: 274px;
