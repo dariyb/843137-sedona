@@ -709,7 +709,7 @@ ul a {
 }
 
 .reasons-image {
-  width: 800;
+  width: 800px;
   min-height: 256px;
   overflow: hidden;
   /* поднять вверх? */
