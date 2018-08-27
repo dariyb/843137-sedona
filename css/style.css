@@ -644,19 +644,16 @@ ul a {
 
 .logo-s-intro {
   outline: blue solid 2px;
-  display: flex;
-  justify-content: center;
+  padding-top: 62px;
   /* ? */
   min-height: 497px;
 }
 
 .logo-s {
   outline: red solid 2px;
-  width: 458px;
   height: 352px;
-  position: absolute;
-  margin-top: 62px;
-  margin-bottom: 80px;
+  display: block;
+  margin: 0 auto;
 }
 
 .intro-container {
