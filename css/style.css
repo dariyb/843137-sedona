@@ -587,7 +587,6 @@ ul a {
 
 .results-list {
   outline: purple dotted 2px;
-  width: 1200px;
   display: flex;
   flex-direction: column;
   margin: 0;
