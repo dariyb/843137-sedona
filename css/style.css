@@ -562,12 +562,12 @@ ul a {
   min-height: 87px;
   padding-left: 72px;
   padding-right: 72px;
+  padding-top: 11px;
 }
 
 .search-results {
   outline: gray solid 1px;
   width: 115px;
-  margin-top: 11px;
   min-height: 58px;
 }
 
@@ -575,7 +575,6 @@ ul a {
   outline: gray dotted 1px;
   width: 86px;
   min-height: 58px;
-  margin-top: 11px;
   margin-left: 44px;
 }
 
@@ -583,7 +582,6 @@ ul a {
   outline: gray dashed 1px;
   width: 258px;
   min-height: 58px;
-  margin-top: 11px;
   margin-left: 29px;
 }
 
@@ -591,7 +589,6 @@ ul a {
   outline: gray solid 1px;
   width: 35px;
   min-height: 58px;
-  margin-top: 11px;
   margin-left: 494px;
 }
 
