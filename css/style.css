@@ -507,16 +507,19 @@ ul a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
   /* temp */
   min-height: 57px;
 }
 
 .main-header-logo {
   outline: yellow solid 2px;
-  width: 138;
-  height: 70;
+  width: 138px;
+  height: 70px;
   position: absolute;
-  margin: 0 auto;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .list-wrapper {
