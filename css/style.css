@@ -526,6 +526,10 @@ ul a {
   display: flex;
 }
 
+.site-navigation li {
+  width: 240px;
+}
+
 .filter-search {
   outline: blue solid 2px;
   width: 1200px;
