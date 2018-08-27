@@ -726,7 +726,7 @@ ul a {
 .reasons-list-item {
   outline: blue dotted 2px;
   width: 400px;
-  padding-left: 48px;
+  padding: 0 47px;
 }
 
 .reasons-unit-2 {
