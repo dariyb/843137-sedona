@@ -566,6 +566,7 @@ ul a {
 .search-results {
   outline: gray solid 1px;
   width: 115px;
+  margin: 0;
   margin-right: 42px;
 }
 
