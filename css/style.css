@@ -590,7 +590,7 @@ ul a {
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0 auto;
+  padding: 0 72px;
   min-height: 453px;
 }
 
