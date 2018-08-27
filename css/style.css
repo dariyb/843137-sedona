@@ -716,9 +716,10 @@ ul a {
 }
 
 .reason-image {
-  width: 800;
+  width: 800px;
   min-height: 400;
   order: -1;
+  overflow: hidden;
   /* убрать зазор,поднять? */
 }
 
