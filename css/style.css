@@ -581,6 +581,7 @@ ul a {
 .sorting-list {
   outline: gray dashed 1px;
   width: 288px;
+  margin: 0;
   margin-right: 494px;
 }
 
