@@ -724,6 +724,7 @@ ul a {
 }
 
 .reasons-list-item {
+  outline: blue dotted 2px;
   width: 400px;
 }
 
