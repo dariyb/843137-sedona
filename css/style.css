@@ -591,7 +591,7 @@ ul a {
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0;
+  padding: 0 auto;
   min-height: 453px;
 }
 
@@ -600,15 +600,14 @@ ul a {
   width: 1056px;
   display: flex;
   flex-direction: row;
-  margin: 0 auto;
   min-height: 152px;
 }
 
 .results-image {
   width: 135px;
   min-height: 90px;
-  margin-left: 73px;
-  margin-right: 22px;
+  padding-left: 73px;
+  padding-right: 22px;
 }
 
 .results-description {
