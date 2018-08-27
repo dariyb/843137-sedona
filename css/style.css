@@ -758,8 +758,7 @@ ul a {
   width: 636px;
   min-height: 146px;
   /* margin-top: 53px; */
-  margin-left: 282px;
-  margin-right: 282px;
+  margin: 0 auto;
   min-height: 146px;
 }
 
