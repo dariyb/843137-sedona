@@ -566,25 +566,21 @@ ul a {
 .search-results {
   outline: gray solid 1px;
   width: 115px;
-  height: 58px;
 }
 
 .sorting {
   outline: gray dotted 1px;
   width: 83px;
-  height: 58px;
 }
 
 .sorting-list {
   outline: gray dashed 1px;
   width: 288px;
-  height: 58px;
 }
 
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
-  height: 58px;
 }
 
 .results-list {
