@@ -530,7 +530,6 @@ ul a {
 
 .filter-search {
   outline: blue solid 2px;
-  width: 1200px;
   display: flex;
   min-height: 204px;
 }
