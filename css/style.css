@@ -574,6 +574,8 @@ ul a {
 .sorting {
   outline: gray dotted 1px;
   width: 83px;
+  margin: 0;
+  padding-top: 38px;
 }
 
 .sorting-list {
