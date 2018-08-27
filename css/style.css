@@ -560,37 +560,30 @@ ul a {
   width: 1200px;
   display: flex;
   min-height: 87px;
-  padding-left: 72px;
-  padding-right: 72px;
-  padding-top: 11px;
-  padding-bottom: 20px;
 }
 
 .search-results {
   outline: gray solid 1px;
   width: 115px;
-  min-height: 58px;
-  margin-right: 42px;
+  height: 58px;
 }
 
 .sorting {
   outline: gray dotted 1px;
   width: 83px;
-  min-height: 58px;
+  height: 58px;
 }
 
 .sorting-list {
   outline: gray dashed 1px;
   width: 288px;
-  min-height: 58px;
-  padding-left: 39px;
-  margin-right: 494px;
+  height: 58px;
 }
 
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
-  min-height: 58px;
+  height: 58px;
 }
 
 .results-list {
