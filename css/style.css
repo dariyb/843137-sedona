@@ -570,11 +570,12 @@ ul a {
   outline: gray solid 1px;
   width: 115px;
   min-height: 58px;
+  margin-right: 42px;
 }
 
 .sorting {
   outline: gray dotted 1px;
-  width: 86px;
+  width: 83px;
   min-height: 58px;
 }
 
