@@ -801,12 +801,13 @@ ul a {
   outline: blue solid 2px;
   background-color: rgba(255, 255, 255, 0.9);
   padding: 37px 0;
+  display: flex;
   min-height: 120px;
 }
 
 .hashtag {
   outline: red dotted 1px;
-  width: 135px;
+  width: 400px;
   min-height: 23px;
   margin: 0;
   align-self: center;
@@ -814,21 +815,15 @@ ul a {
 
 .footer-social {
   outline: green solid 1px;
-  width: 150px;
+  width: 400px;
   min-height: 48px;
   margin: 0;
 }
 
 .footer-copyright {
   outline: gray solid 2px;
-  width: 195px;
+  width: 400px;
   min-height: 41px;
   margin: 0;
   align-self: center;
-}
-
-.footer-container {
-  outline: purple solid 2px;
-  display: flex;
-  justify-content: space-around;
 }
