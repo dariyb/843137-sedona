@@ -561,6 +561,8 @@ ul a {
   min-height: 87px;
   padding-left: 72px;
   padding-right: 72px;
+  padding-top: 11px;
+  padding-bottom: 20px;
 }
 
 .search-results {
