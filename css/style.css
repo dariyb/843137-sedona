@@ -532,13 +532,14 @@ ul a {
   outline: blue solid 2px;
   display: flex;
   min-height: 204px;
+  padding-left: 72px;
+  padding-right: 72px;
 }
 
 .filter-infrastructure {
   outline: black solid 1px;
   width: 241px;
   min-height: 204px;
-  margin-left: 73px;
 }
 
 .filter-housing {
@@ -552,7 +553,6 @@ ul a {
   width: 328px;
   min-height: 204px;
   margin-left: auto;
-  margin-right: 73px;
 }
 
 .filter-results {
