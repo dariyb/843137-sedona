@@ -705,7 +705,6 @@ ul a {
   width: 800px;
   min-height: 256px;
   overflow: hidden;
-  /* поднять вверх? */
 }
 
 .reason-image {
@@ -713,7 +712,6 @@ ul a {
   min-height: 400;
   order: -1;
   overflow: hidden;
-  /* убрать зазор,поднять? */
 }
 
 .reasons-list {
@@ -725,6 +723,10 @@ ul a {
   align-items: baseline;
   background-color: #ffffff;
   min-height: 274px;
+}
+
+.reasons-list-item {
+  width: 304px;
 }
 
 .reasons-unit-2 {
