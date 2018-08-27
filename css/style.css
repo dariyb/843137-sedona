@@ -727,6 +727,7 @@ ul a {
 
 .reasons-list-item {
   width: 304px;
+  justify-content: space-around;
 }
 
 .reasons-unit-2 {
