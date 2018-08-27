@@ -557,7 +557,6 @@ ul a {
 
 .filter-results {
   outline: green solid 2px;
-  width: 1200px;
   display: flex;
   min-height: 87px;
 }
