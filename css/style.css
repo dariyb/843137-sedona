@@ -561,13 +561,12 @@ ul a {
   min-height: 87px;
   padding-left: 72px;
   padding-right: 72px;
-  padding-top: 11px;
-  padding-bottom: 20px;
 }
 
 .search-results {
   outline: gray solid 1px;
   width: 115px;
+  margin-right: 42px;
 }
 
 .sorting {
@@ -578,6 +577,7 @@ ul a {
 .sorting-list {
   outline: gray dashed 1px;
   width: 288px;
+  margin-right: 494px;
 }
 
 .sorting-direction {
