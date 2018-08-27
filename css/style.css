@@ -658,7 +658,6 @@ ul a {
 
 .intro-container {
   outline: green dotted 2px;
-  width: 1200px;
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -687,7 +686,6 @@ ul a {
 
 .reasons-unit {
   outline: black solid 2px;
-  width: 1200px;
   display: flex;
   overflow: hidden;
   height: 256px;
