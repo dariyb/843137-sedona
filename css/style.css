@@ -577,12 +577,14 @@ ul a {
   outline: gray dotted 1px;
   width: 83px;
   min-height: 58px;
+  margin-right: 494px;
 }
 
 .sorting-list {
   outline: gray dashed 1px;
-  width: 258px;
+  width: 288px;
   min-height: 58px;
+  padding-left: 39px;
 }
 
 .sorting-direction {
