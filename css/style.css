@@ -575,21 +575,18 @@ ul a {
   outline: gray dotted 1px;
   width: 86px;
   min-height: 58px;
-  margin-left: 44px;
 }
 
 .sorting-list {
   outline: gray dashed 1px;
   width: 258px;
   min-height: 58px;
-  margin-left: 29px;
 }
 
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
   min-height: 58px;
-  margin-left: 494px;
 }
 
 .results-list {
