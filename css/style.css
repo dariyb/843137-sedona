@@ -687,7 +687,6 @@ ul a {
 .reasons-unit {
   outline: black solid 2px;
   display: flex;
-  overflow: hidden;
   height: 256px;
 }
 
@@ -712,6 +711,7 @@ ul a {
 .reasons-image {
   width: 800;
   min-height: 256px;
+  overflow: hidden;
   /* поднять вверх? */
 }
 
