@@ -722,6 +722,7 @@ ul a {
   padding-top: 56px;
   align-items: baseline;
   background-color: #ffffff;
+  justify-content: space-around;
   min-height: 274px;
 }
 
