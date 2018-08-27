@@ -698,16 +698,6 @@ ul a {
   min-height: 256px;
 }
 
-.wrapper {
-  outline: gray dashed 2px;
-  width: 307px;
-  min-height: 166px;
-  margin-top: 48px;
-  margin-bottom: 39px;
-  margin-left: 46px;
-  margin-right: 46px;
-}
-
 .reasons-image {
   width: 800px;
   min-height: 256px;
