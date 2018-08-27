@@ -734,14 +734,13 @@ ul a {
   outline: blue dashed 2px;
   width: 1200px;
   display: flex;
-  justify-content: space-around;
   background-color: #eeeeee;
   min-height: 256px;
 }
 
 .reasons-block {
   outline: gray dotted 2px;
-  width: 313px;
+  width: 400px;
   margin: auto;
   min-height: 166px;
 }
