@@ -560,13 +560,14 @@ ul a {
   width: 1200px;
   display: flex;
   min-height: 87px;
+  padding-left: 72px;
+  padding-right: 72px;
 }
 
 .search-results {
   outline: gray solid 1px;
   width: 115px;
   margin-top: 11px;
-  margin-left: 73px;
   min-height: 58px;
 }
 
@@ -591,7 +592,6 @@ ul a {
   width: 35px;
   min-height: 58px;
   margin-top: 11px;
-  margin-right: 73px;
   margin-left: 494px;
 }
 
