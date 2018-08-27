@@ -588,6 +588,8 @@ ul a {
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
+  margin: 0;
+  padding: 0;
 }
 
 .results-list {
