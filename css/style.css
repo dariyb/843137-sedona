@@ -242,7 +242,9 @@ a {
   line-height: 21px;
   font-weight: 700;
   color: #000000;
+  width: 125px;
   margin: 0;
+  padding: 0 138px;
 }
 
 .filter-results {
