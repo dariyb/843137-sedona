@@ -893,5 +893,5 @@ ul a {
 
 .footer-copyright b {
   margin-right: 8px;
-  align-items: center;
+  align-self: center;
 }
