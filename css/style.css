@@ -525,14 +525,18 @@ ul a {
   flex-wrap: wrap;
 }
 
-/* .site-navigation li {
-  width: 240px;
-} */
-
 .site-navigation a {
   display: block;
   vertical-align: middle;
   padding: 16px 72px;
+}
+
+.site-navigation a:first-child, .site-navigation a:nth-child(2) {
+  justify-content: flex-start;
+}
+
+.site-navigation a:nth-child(3), .site-navigation a:last-child {
+  justify-content: flex-end;
 }
 
 .filter-search {
