@@ -895,3 +895,7 @@ ul a {
   margin-right: 8px;
   align-self: center;
 }
+
+.footer-copyright a {
+  align-self: center;
+}
