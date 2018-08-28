@@ -136,9 +136,10 @@ a {
 }
 
 .logo-s-intro {
-  background-image: url("../img/maun.jpg");
-  background-position: center top;
-  background-repeat: no-repeat;
+  background-color: #9e7f76;
+  background-image: url("../img/maun.jpg"), url("../img/intro-mask.svg");
+  background-position: center top, center bottom;
+  background-repeat: no-repeat, no-repeat;
 }
 
 .intro {
