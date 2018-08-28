@@ -666,24 +666,17 @@ ul a {
   align-items: center;
   flex-wrap: wrap;
   padding: 58px 317px;
-  /* min-height: 216px; */
 }
 
 .intro {
   outline: gray solid 2px;
-  /* width: 440px; */
   margin: 0;
   margin-bottom: 37px;
-  /* temp */
-  /* min-height: 47px; */
 }
 
 .reasons-for {
   outline: yellow dotted 2px;
-  /* width: 490px; */
   margin: 0;
-  /* temp */
-  /* min-height: 15px; */
 }
 
 .reasons-unit {
