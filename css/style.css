@@ -520,7 +520,7 @@ ul a {
 .site-navigation {
   outline: blue solid 2px;
   margin: 0;
-  padding: 0;
+  padding: 0 72px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -528,15 +528,11 @@ ul a {
 .site-navigation a {
   display: block;
   vertical-align: middle;
-  padding: 16px 72px;
+  padding: 16px 0;
 }
 
-.site-navigation li:first-child, .site-navigation li:nth-child(2) {
-  justify-content: flex-start;
-}
-
-.site-navigation li:nth-child(3), .site-navigation li:last-child {
-  justify-content: flex-end;
+.site-navigation a:nth-child(2) {
+  margin-right: 96px;
 }
 
 .filter-search {
