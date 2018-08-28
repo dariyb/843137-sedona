@@ -217,7 +217,6 @@ a {
   font-weight: 700;
   color: #ffffff;
   margin: 0;
-  margin-bottom: 29px;
 }
 
 .reasons-list {
@@ -698,8 +697,7 @@ ul a {
 }
 
 .reasons-legend p {
-  margin: 0;
-  margin-bottom: 30px;
+  margin: 30 0;
 }
 
 .reasons-image {
