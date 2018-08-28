@@ -712,6 +712,13 @@ ul a {
   padding-top: 48px;
 }
 
+.text-2 {
+  width: 327px;
+  margin: 0;
+  margin-top: 25px;
+  padding: 0 37px;
+}
+
 .reasons-image {
   width: 800px;
   min-height: 256px;
