@@ -888,13 +888,3 @@ ul a {
   margin: 0;
   align-self: center;
 }
-
-.footer-copyright b {
-  display: inline-block;
-  padding-bottom: 20px;
-}
-
-.footer-copyright a {
-  display: inline-block;
-  padding-right: 102px;
-}
