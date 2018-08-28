@@ -886,5 +886,10 @@ ul a {
   outline: gray solid 2px;
   width: 400px;
   margin: 0;
+  display: flex;
   align-self: center;
 }
+
+/* .footer-copyright b {
+
+} */
