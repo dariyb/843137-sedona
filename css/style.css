@@ -894,3 +894,9 @@ ul a {
   display: inline-block;
   margin-bottom: 55px;
 }
+
+.footer-copyright a {
+  display: block;
+  margin-right: 102px;
+  margin-top: 38px;
+}
