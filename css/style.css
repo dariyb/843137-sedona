@@ -493,7 +493,7 @@ a {
   width: 150px;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 0 auto;
+  margin: auto;
   padding: 0;
   list-style: none;
 }
