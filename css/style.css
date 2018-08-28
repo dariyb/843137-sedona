@@ -522,10 +522,17 @@ ul a {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .site-navigation li {
   width: 240px;
+}
+
+.site-navigation a {
+  display: block;
+  vertical-align: middle;
+  padding: 16px 72px;
 }
 
 .filter-search {
