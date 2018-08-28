@@ -858,6 +858,7 @@ ul a {
   width: 400px;
   /* min-height: 48px; */
   margin: 0;
+  align-self: center;
 }
 
 .social-button {
