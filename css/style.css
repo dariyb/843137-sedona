@@ -137,8 +137,8 @@ a {
 
 .logo-s-intro {
   background-color: #9e7f76;
-  background-image: url("../img/maun.jpg"), url("../img/intro-mask.svg");
-  background-position: center top, center bottom;
+  background-image: url("../img/intro-mask.svg"), url("../img/maun.jpg");
+  background-position: center bottom, center top;
   background-repeat: no-repeat, no-repeat;
 }
 
