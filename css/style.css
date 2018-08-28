@@ -885,12 +885,12 @@ ul a {
 .footer-copyright {
   outline: gray solid 2px;
   width: 400px;
-  /* min-height: 41px; */
   margin: 0;
+  padding: 40px 101px;
   align-self: center;
 }
 
-.footer-copyright b {
+/* .footer-copyright b {
   display: inline-block;
   margin-bottom: 55px;
 }
@@ -899,4 +899,4 @@ ul a {
   display: inline-block;
   margin-right: 102px;
   margin-top: 38px;
-}
+} */
