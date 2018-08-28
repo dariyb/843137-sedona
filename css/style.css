@@ -692,7 +692,7 @@ ul a {
 }
 
 .reason-1 {
-  width: 142px;
+  /* width: 142px; */
   margin: 0;
   padding: 0 130px;
   padding-top: 48px;
@@ -711,6 +711,10 @@ ul a {
   margin-top: 25px;
   padding: 0 59px;
 }
+
+/* .text-2 {
+  width:327px;
+} */
 
 .reasons-image {
   width: 800px;
