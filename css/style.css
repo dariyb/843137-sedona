@@ -688,7 +688,7 @@ ul a {
 
 .reasons-legend {
   outline: white dashed 2px;
-  /* width: 400px; */
+  width: 400px;
   background-color: #81b3d2;
   padding-top: 48px;
   padding-bottom: 40px;
