@@ -216,10 +216,6 @@ a {
   line-height: 21px;
   font-weight: 700;
   color: #ffffff;
-  width: 142px;
-  margin: 0;
-  padding: 0 130px;
-  padding-top: 48px;
 }
 
 .reasons-list {
@@ -693,6 +689,13 @@ ul a {
   outline: white dashed 2px;
   width: 400px;
   background-color: #81b3d2;
+}
+
+.reasons-title {
+  width: 142px;
+  margin: 0;
+  padding: 0 130px;
+  padding-top: 48px;
 }
 
 .reason-2 {
