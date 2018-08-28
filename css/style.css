@@ -891,6 +891,6 @@ ul a {
 }
 
 .footer-copyright b {
-  margin: 0;
+  display: block;
   margin-bottom: 55px;
 }
