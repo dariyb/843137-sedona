@@ -854,6 +854,12 @@ ul a {
   margin: 0;
 }
 
+.social-button {
+  width: 46px;
+  height: 48px;
+  background-color: #81b3d2;
+}
+
 .footer-copyright {
   outline: gray solid 2px;
   width: 400px;
