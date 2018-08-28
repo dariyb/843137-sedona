@@ -839,7 +839,7 @@ ul a {
 
 .main-footer {
   outline: blue solid 2px;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.3);
   /* padding: 37px 0; */
   display: flex;
   min-height: 120px;
