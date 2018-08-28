@@ -354,6 +354,8 @@ a {
   line-height: 24px;
   color: #333333;
   text-align: center;
+  margin: 0;
+  margin-bottom: 50px;
 }
 
 .search-for-hotel {
@@ -794,6 +796,7 @@ ul a {
 
 .search-title-vacation {
   margin: 0;
+  margin-bottom: 32px;
 }
 
 .search-for-hotel {
