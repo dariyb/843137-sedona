@@ -702,7 +702,9 @@ ul a {
 .reasons-legend p {
   width: 284px;
   margin: 0;
-  padding: 25px 59px;
+  margin-top: 25px;
+  padding: 0 59px;
+  padding-bottom: 64px;
 }
 
 .reasons-image {
