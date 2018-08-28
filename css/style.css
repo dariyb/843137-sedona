@@ -889,12 +889,12 @@ ul a {
   align-self: center;
 }
 
-/* .footer-copyright b {
+.footer-copyright b {
   display: inline-block;
-  margin-bottom: 55px;
+  padding-bottom: 55px;
 }
 
-.footer-copyright a {
+/* .footer-copyright a {
   display: inline-block;
   margin-right: 102px;
   margin-top: 38px;
