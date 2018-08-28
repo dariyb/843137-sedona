@@ -688,33 +688,13 @@ ul a {
 .reasons-legend {
   outline: white dashed 2px;
   width: 400px;
+  /* temp */
   background-color: #81b3d2;
-}
-
-.reason-1 {
-  /* width: 142px; */
-  margin: 0;
-  padding: 0 130px;
   padding-top: 48px;
+  padding-bottom: 40px;
+  padding-left: 46px;
+  padding-right: 46px;
 }
-
-.reason-2 {
-  width: 157px;
-  margin: 0;
-  padding: 0 121px;
-  padding-top: 48px;
-}
-
-.text-1 {
-  width: 284px;
-  margin: 0;
-  margin-top: 25px;
-  padding: 0 59px;
-}
-
-/* .text-2 {
-  width:327px;
-} */
 
 .reasons-image {
   width: 800px;
