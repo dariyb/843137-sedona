@@ -671,19 +671,19 @@ ul a {
 
 .intro {
   outline: gray solid 2px;
-  width: 636px;
+  /* width: 440px; */
   margin: 0;
   margin-bottom: 37px;
   /* temp */
-  min-height: 47px;
+  /* min-height: 47px; */
 }
 
 .reasons-for {
   outline: yellow dotted 2px;
-  width: 490px;
+  /* width: 490px; */
   margin: 0;
   /* temp */
-  min-height: 15px;
+  /* min-height: 15px; */
 }
 
 .reasons-unit {
