@@ -885,8 +885,7 @@ ul a {
 .footer-copyright {
   outline: gray solid 2px;
   width: 400px;
-  margin: 0;
-  padding: 40px 101px;
+  margin: 10px;
   align-self: center;
 }
 
