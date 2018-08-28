@@ -525,9 +525,9 @@ ul a {
   flex-wrap: wrap;
 }
 
-.site-navigation li {
+/* .site-navigation li {
   width: 240px;
-}
+} */
 
 .site-navigation a {
   display: block;
