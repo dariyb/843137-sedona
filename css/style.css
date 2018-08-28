@@ -531,7 +531,7 @@ ul a {
   padding: 16px 72px;
 }
 
-.site-navigation a:nth-child(2) {
+.site-navigation li:nth-child(2) {
   margin-right: 96px;
 }
 
