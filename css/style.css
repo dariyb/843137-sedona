@@ -218,6 +218,8 @@ a {
   color: #ffffff;
   width: 142px;
   margin: 0;
+  padding: 0 130px;
+  padding-top: 48px;
 }
 
 .reasons-list {
