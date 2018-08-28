@@ -896,7 +896,7 @@ ul a {
 }
 
 .footer-copyright a {
-  display: block;
+  display: inline-block;
   margin-right: 102px;
   margin-top: 38px;
 }
