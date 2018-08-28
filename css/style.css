@@ -247,6 +247,13 @@ a {
   padding: 0 138px;
 }
 
+.reasons-block p {
+  width: 262px;
+  margin: 0;
+  margin-top: 28px;
+  padding: 0 70px;
+}
+
 .filter-results {
   background-color: #fefefe;
 }
