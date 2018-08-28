@@ -216,7 +216,8 @@ a {
   line-height: 21px;
   font-weight: 700;
   color: #ffffff;
-  margin-top: 0;
+  margin: 0;
+  margin-bottom: 29px;
 }
 
 .reasons-list {
@@ -689,12 +690,16 @@ ul a {
 .reasons-legend {
   outline: white dashed 2px;
   width: 400px;
-  /* temp */
   background-color: #81b3d2;
   padding-top: 48px;
-  padding-bottom: 40px;
-  padding-left: 46px;
-  padding-right: 46px;
+  padding-bottom: 34px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.reasons-legend p {
+  margin: 0;
+  margin-bottom: 30px;
 }
 
 .reasons-image {
