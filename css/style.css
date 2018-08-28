@@ -894,8 +894,7 @@ ul a {
   padding-bottom: 20px;
 }
 
-/* .footer-copyright a {
+.footer-copyright a {
   display: inline-block;
-  margin-right: 102px;
-  margin-top: 38px;
-} */
+  padding-right: 102px;
+}
