@@ -489,6 +489,8 @@ a {
 }
 
 .footer-social ul {
+  display: flex;
+  width: 150px;
   list-style: none;
 }
 
