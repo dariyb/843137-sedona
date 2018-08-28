@@ -531,11 +531,11 @@ ul a {
   padding: 16px 72px;
 }
 
-.site-navigation a:first-child, .site-navigation a:nth-child(2) {
+.site-navigation li:first-child, .site-navigation li:nth-child(2) {
   justify-content: flex-start;
 }
 
-.site-navigation a:nth-child(3), .site-navigation a:last-child {
+.site-navigation li:nth-child(3), .site-navigation li:last-child {
   justify-content: flex-end;
 }
 
