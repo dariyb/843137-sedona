@@ -701,8 +701,8 @@ ul a {
 
 .reasons-legend p {
   width: 284px;
-  margin: 25px 0;
-  padding: 0 59px;
+  margin: 0;
+  padding: 25px 59px;
 }
 
 .reasons-image {
