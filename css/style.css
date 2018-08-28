@@ -846,7 +846,7 @@ ul a {
 }
 
 .hashtag {
-  outline: red dotted 1px;
+  /* outline: red dotted 1px; */
   width: 400px;
   /* min-height: 23px; */
   margin: 0;
@@ -854,7 +854,7 @@ ul a {
 }
 
 .footer-social {
-  outline: green solid 1px;
+  /* outline: green solid 1px; */
   width: 400px;
   /* min-height: 48px; */
   margin: 0;
@@ -883,7 +883,7 @@ ul a {
 }
 
 .footer-copyright {
-  outline: gray solid 2px;
+  /* outline: gray solid 2px; */
   width: 400px;
   margin: 0;
   display: flex;
