@@ -144,6 +144,7 @@ a {
   color: #666666;
   background-color: #f2f2f2;
   display: block;
+  box-sizing: border-box;
   width: 110px;
   margin: 0;
   padding: 3px 0;
