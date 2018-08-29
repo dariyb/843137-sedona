@@ -504,15 +504,15 @@ a {
   fill: #81b3d2;
 }
 
-.search-calendar path {
+.search-calendar svg {
   fill: #cacaca;
 }
 
-.search-calendar path:hover, .search-calendar path:focus {
+.search-calendar svg:hover, .search-calendar svg:focus {
   fill: #000000;
 }
 
-.search-calendar path:active {
+.search-calendar svg:active {
   fill: #81b3d2;
 }
 
