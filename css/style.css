@@ -87,6 +87,8 @@ a {
   background-color: #81b3d2;
   text-align: center;
   vertical-align: middle;
+  display: block;
+  width: 100%;
 }
 
 .description-unit a:hover, .description-unit a:focus {
