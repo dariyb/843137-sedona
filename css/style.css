@@ -586,6 +586,7 @@ ul a {
   outline: black dotted 1px;
   width: 288px;
   min-height: 204px;
+  padding: 0;
 }
 
 .filter-price {
