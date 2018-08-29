@@ -380,6 +380,7 @@ a {
 .sorting-list-current a {
   color: #81b3d2;
   border-bottom: none;
+  padding-left: 40px;
 }
 
 .sorting-direction {
