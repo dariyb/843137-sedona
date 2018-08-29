@@ -569,6 +569,10 @@ ul a {
   padding: 0;
 }
 
+.filter-infrastructure legend {
+  margin-top: 30px;
+}
+
 .filter-housing {
   outline: black dotted 1px;
   width: 288px;
