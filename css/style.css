@@ -999,7 +999,7 @@ ul a {
   text-align: left;
 }
 
-.search-form .search-item:nth-child(3) {
+.search-item {
   display: flex;
   width: 458px;
   box-sizing: border-box;
