@@ -999,6 +999,10 @@ ul a {
   text-align: left;
 }
 
+.search-form:first-child input {
+  margin-left: 21px;
+}
+
 .search-item:nth-child(2) {
   text-align: left;
 }
