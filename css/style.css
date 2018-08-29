@@ -828,6 +828,18 @@ ul a {
   margin: 15px 55px;
 }
 
+.search-item label:first-child {
+  margin-right: 20px;
+}
+
+.search-item label:nth-child(2) {
+  margin-right: 10px;
+}
+
+.search-item label:nth-child(3) {
+  margin-right: 40px;
+}
+
 .search-item-text {
   width: 313px;
   padding: 6px 0;
