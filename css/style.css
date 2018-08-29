@@ -234,8 +234,12 @@ a {
   color: #ffffff;
   background-color: transparent;
   border: 2px solid #ffffff;
+  border-radius: 2px;
   text-align: center;
   vertical-align: middle;
+  display: block;
+  margin: 0 auto;
+  padding: 6px 35px;
 }
 
 .show-results:hover, .show-results:focus {
