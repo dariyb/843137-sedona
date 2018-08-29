@@ -753,6 +753,8 @@ ul a {
 
 .description-unit {
   width: 111px;
+  margin: 0;
+  padding-left: 30px;
 }
 
 .results-description {
