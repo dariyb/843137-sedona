@@ -890,6 +890,11 @@ ul a {
   width: 800px;
   min-height: 256px;
   overflow: hidden;
+  position: relative;
+}
+
+.reasons-image img {
+  position: absolute;
 }
 
 .reason-image {
