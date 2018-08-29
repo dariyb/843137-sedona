@@ -907,7 +907,7 @@ ul a {
   position: relative;
 }
 
-.reasons-image img {
+.reason-image img {
   position: absolute;
   top: -30%;
   transform: translateX(50%);
