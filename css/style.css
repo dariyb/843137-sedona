@@ -378,6 +378,7 @@ a {
 
 .sorting-list-current a {
   color: #81b3d2;
+  border-bottom: none;
 }
 
 .sorting-direction {
