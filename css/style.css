@@ -172,6 +172,22 @@ a {
   transform: translate(-50%, -50%);
 }
 
+.filter-range {
+  position: relative;
+  margin-bottom: 32px;
+}
+
+.filter-range .filter-range-scale {
+  height: 2px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.filter-range .filter-range-bar {
+  width: 80%;
+  height: 2px;
+  background: #ffffff;
+}
+
 .filter-interval label {
   display: inline-block;
   font-size: 14px;
