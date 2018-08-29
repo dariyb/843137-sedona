@@ -173,6 +173,8 @@ a {
   border: none;
   color: #ffffff;
   background-color: transparent;
+  width: 90px;
+  padding-left: 65px;
 }
 
 .filter-range-handle {
