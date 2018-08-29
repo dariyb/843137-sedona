@@ -751,6 +751,11 @@ ul a {
   padding-left: 30px;
 }
 
+.results-description {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .description-unit {
   width: 111px;
   margin: 0;
