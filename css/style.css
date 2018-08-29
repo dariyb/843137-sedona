@@ -746,7 +746,7 @@ ul a {
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0 72px;
+  /* padding: 0 72px; */
   min-height: 453px;
 }
 
@@ -755,6 +755,7 @@ ul a {
   width: 1056px;
   display: flex;
   flex-direction: row;
+  padding: 0 72px;
   border-bottom: 1px solid #e5e5e5;
   /* min-height: 152px; */
 }
