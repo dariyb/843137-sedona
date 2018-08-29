@@ -1004,6 +1004,7 @@ ul a {
   display: flex;
   width: 458px;
   justify-content: space-between;
+  align-items: center;
   box-sizing: border-box;
   margin-bottom: 0;
 }
