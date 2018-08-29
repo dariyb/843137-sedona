@@ -980,6 +980,7 @@ ul a {
 .search-item input {
   box-sizing: border-box;
   width: 308px;
+  padding-left: 13px;
 }
 
 .search-item:nth-child(3), .search-item:nth-child(4) {
