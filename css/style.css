@@ -191,6 +191,7 @@ a {
 .filter-range-handle {
   position: absolute;
   top: -9px;
+  left: -2px;
 }
 
 .filter-interval label {
