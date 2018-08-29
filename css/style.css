@@ -833,7 +833,7 @@ ul a {
 }
 
 .search-item:last-child {
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .find-results {
