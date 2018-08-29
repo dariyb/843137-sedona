@@ -155,6 +155,10 @@ a {
   line-height: 21px;
   font-weight: 400;
   color: #ffffff;
+  height: 36px;
+  margin-bottom: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 2px;
 }
 
 .filter-interval input[type="text"] {
