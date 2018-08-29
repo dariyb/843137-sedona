@@ -188,6 +188,11 @@ a {
   background: #ffffff;
 }
 
+.filter-range-handle {
+  position: absolute;
+  top: -9px;
+}
+
 .filter-interval label {
   display: inline-block;
   font-size: 14px;
