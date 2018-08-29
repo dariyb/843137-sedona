@@ -89,6 +89,7 @@ a {
   vertical-align: middle;
   display: block;
   width: 100%;
+  padding: 3px 0;
 }
 
 .description-unit a:hover, .description-unit a:focus {
