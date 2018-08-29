@@ -167,6 +167,9 @@ a {
   width: 2px;
   height: 22px;
   background: #ffffff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .filter-interval label {
