@@ -751,7 +751,7 @@ ul a {
 }
 
 .results-list-item {
-  outline: black solid 1px;
+  /* outline: black solid 1px; */
   width: 1056px;
   display: flex;
   flex-direction: row;
