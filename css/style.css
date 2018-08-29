@@ -827,6 +827,10 @@ ul a {
   margin: 15px 55px;
 }
 
+.search-item:nth-child(3), .search-item:nth-child(4) {
+  width: 229px;
+}
+
 /* .search-item-text {
   width: 313px;
   padding: 6px 0;
