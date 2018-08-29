@@ -837,10 +837,11 @@ ul a {
   width: 38px;
 }
 
-/* .search-item-text {
-  width: 313px;
-  padding: 6px 0;
-} */
+.minus {
+  width: 38px;
+  padding: 0;
+  margin: 0;
+}
 
 .search-item:first-child {
   margin-top: 0;
