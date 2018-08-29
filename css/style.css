@@ -744,6 +744,13 @@ ul a {
   margin: 0;
 }
 
+.hotels-name {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  padding: 0;
+  padding-left: 30px;
+}
+
 .results-description {
   outline: black dotted 1px;
   width: 571px;
