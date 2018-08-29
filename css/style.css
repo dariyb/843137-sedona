@@ -1004,7 +1004,6 @@ ul a {
   display: flex;
   width: 458px;
   justify-content: space-between;
-  align-items: center;
   box-sizing: border-box;
   margin-bottom: 0;
 }
@@ -1043,6 +1042,10 @@ ul a {
   width: 38px;
   padding: 6px 0;
   margin: 0;
+}
+
+.search-item:nth-child(3) .minus:first-child {
+  margin-left: 40px;
 }
 
 .plus {
