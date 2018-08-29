@@ -737,7 +737,7 @@ ul a {
 .results-image {
   width: 135px;
   min-height: 90px;
-  margin-top: 31px;
+  margin: 30px 0;
 }
 
 .hotels-photo {
