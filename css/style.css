@@ -847,7 +847,7 @@ ul a {
 }
 
 .reasons-unit {
-  outline: black solid 2px;
+  /* outline: black solid 2px; */
   display: flex;
   height: 256px;
 }
