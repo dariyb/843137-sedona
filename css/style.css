@@ -829,7 +829,8 @@ ul a {
 }
 
 .search-item-text {
-  width: 313px
+  width: 313px;
+  padding: 0;
 }
 
 .search-item:first-child {
