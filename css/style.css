@@ -807,7 +807,7 @@ ul a {
 }
 
 .container {
-  outline: yellow solid 2px;
+  /* outline: yellow solid 2px; */
   width: 1200px;
   margin: 0 auto;
 }
