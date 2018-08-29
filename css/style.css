@@ -828,19 +828,19 @@ ul a {
   margin: 15px 55px;
 }
 
-.search-item-text {
+/* .search-item-text {
   width: 313px;
   padding: 6px 0;
-}
+} */
 
 .search-item:first-child {
   margin-top: 0;
   padding-top: 55px;
 }
 
-.search-item:nth-child(4) {
+/* .search-item:nth-child(4) {
   margin-bottom: 0;
-}
+} */
 
 .find-results {
   width: 458px;
