@@ -1047,14 +1047,14 @@ ul a {
   margin-left: 40px;
 }
 
-.p-adults {
-  margin-right: 53px;
-}
-
 .plus {
   width: 38px;
   padding: 6px 0;
   margin: 0;
+}
+
+.p-adults {
+  margin-right: 53px;
 }
 
 .search-item:first-child {
