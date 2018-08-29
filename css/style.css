@@ -44,7 +44,7 @@ a {
 
 .filter {
   background-image: url("../img/blurr.jpg");
-  background-position: center top;
+  background-position: 50% 35%;
   background-repeat: no-repeat;
 }
 
