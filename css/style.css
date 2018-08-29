@@ -834,8 +834,8 @@ ul a {
 }
 
 .search-item:nth-child(4) {
-  width: auto;
   margin-bottom: 0;
+  box-sizing: border-box;
 }
 
 .find-results {
