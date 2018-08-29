@@ -833,6 +833,7 @@ ul a {
 }
 
 .search-item:nth-child(4) {
+  width: auto;
   margin-bottom: 0;
 }
 
