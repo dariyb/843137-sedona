@@ -714,6 +714,7 @@ ul a {
   padding: 0;
   padding-top: 38px;
   display: flex;
+  justify-content: space-between;
 }
 
 .results-list {
