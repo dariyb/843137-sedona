@@ -904,6 +904,13 @@ ul a {
   min-height: 400;
   order: -1;
   overflow: hidden;
+  position: relative;
+}
+
+.reasons-image img {
+  position: absolute;
+  top: -30%;
+  transform: translateX(50%);
 }
 
 .reasons-list {
