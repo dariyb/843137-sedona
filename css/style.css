@@ -1002,6 +1002,7 @@ ul a {
   display: flex;
   width: 458px;
   box-sizing: border-box;
+  margin: 0 55px;
   margin-bottom: 15px;
 }
 
