@@ -194,6 +194,10 @@ a {
   left: -6px;
 }
 
+.max {
+  left: 80%;
+}
+
 .filter-interval label {
   display: inline-block;
   font-size: 14px;
