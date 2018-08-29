@@ -832,6 +832,10 @@ ul a {
   padding-top: 55px;
 }
 
+.search-item:last-child {
+  margin-bottom: 0;
+}
+
 .find-results {
   width: 458px;
   margin: 55px;
