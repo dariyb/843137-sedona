@@ -910,7 +910,6 @@ ul a {
 .reason-image img {
   position: absolute;
   top: -30%;
-  transform: translateX(50%);
 }
 
 .reasons-list {
