@@ -166,6 +166,8 @@ a {
   font-size: 14px;
   line-height: 38px;
   vertical-align: top;
+  width: 90px;
+  padding-left: 65px;
 }
 
 .filter-interval input[type="text"] {
@@ -173,8 +175,6 @@ a {
   border: none;
   color: #ffffff;
   background-color: transparent;
-  width: 90px;
-  padding-left: 65px;
 }
 
 .filter-range-handle {
