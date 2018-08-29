@@ -1003,7 +1003,6 @@ ul a {
 .search-form .search-item:nth-child(3) {
   display: flex;
   width: 458px;
-  /* justify-content: space-between; */
   box-sizing: border-box;
   margin-bottom: 0;
 }
@@ -1046,6 +1045,10 @@ ul a {
 
 .m-adults {
   margin-left: 40px;
+}
+
+.p-adults {
+  margin-right: 53px;
 }
 
 .plus {
