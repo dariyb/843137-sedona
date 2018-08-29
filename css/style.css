@@ -981,6 +981,7 @@ ul a {
   box-sizing: border-box;
   width: 308px;
   padding-left: 13px;
+  margin: 10px;
 }
 
 .search-item:nth-child(3), .search-item:nth-child(4) {
