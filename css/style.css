@@ -696,6 +696,7 @@ ul a {
   margin: 0;
   margin-right: 494px;
   padding-top: 38px;
+  display: flex;
 }
 
 .sorting-direction {
