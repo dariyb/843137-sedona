@@ -1005,6 +1005,7 @@ ul a {
   width: 458px;
   justify-content: space-between;
   box-sizing: border-box;
+  margin-bottom: 0;
 }
 
 .search-item:nth-child(3) input {
