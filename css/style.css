@@ -815,8 +815,7 @@ ul a {
   outline: yellow dashed 1px;
   width: 568px;
   display: flex;
-  flex-direction: column;
-  align-content: flex-start;
+  flex-wrap: wrap;
   margin: 0 316px;
   background-color: #ffffff;
   min-height: 395px;
