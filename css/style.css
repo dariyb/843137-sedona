@@ -836,6 +836,9 @@ ul a {
 .search-item:nth-child(3) {
   margin-left: 55px;
   margin-right: 8px;
+}
+
+.search-item:nth-child(3) label {
   align-self: flex-start;
 }
 
