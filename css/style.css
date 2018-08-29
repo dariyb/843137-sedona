@@ -174,7 +174,9 @@ a {
   font: inherit;
   border: none;
   color: #ffffff;
-  background-color: transparent;
+  background-color: none;
+  width: 50px;
+  margin: 0;
 }
 
 .filter-range-handle {
