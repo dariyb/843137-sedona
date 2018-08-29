@@ -828,6 +828,10 @@ ul a {
   margin: 15px 55px;
 }
 
+.search-item-text {
+  width: 313px
+}
+
 .search-item:first-child {
   margin-top: 0;
   padding-top: 55px;
@@ -835,7 +839,6 @@ ul a {
 
 .search-item:nth-child(4) {
   margin-bottom: 0;
-  box-sizing: border-box;
 }
 
 .find-results {
