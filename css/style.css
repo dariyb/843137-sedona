@@ -990,6 +990,7 @@ ul a {
 
 .search-item:first-child {
   text-align: left;
+  margin-right: 20px;
 }
 
 .search-item:nth-child(4) {
