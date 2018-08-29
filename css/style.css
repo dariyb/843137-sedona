@@ -765,6 +765,11 @@ ul a {
   padding-left: 30px;
 }
 
+.description-unit-2 {
+  width: 143px;
+  margin: 0;
+}
+
 .results-description {
   outline: black dotted 1px;
   width: 571px;
