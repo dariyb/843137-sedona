@@ -816,7 +816,6 @@ ul a {
   width: 568px;
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
   margin: 0 316px;
   background-color: #ffffff;
   min-height: 395px;
@@ -837,6 +836,7 @@ ul a {
 .search-item:nth-child(3) {
   margin-left: 55px;
   margin-right: 8px;
+  align-self: flex-start;
 }
 
 .search-item:nth-child(4) {
