@@ -999,8 +999,8 @@ ul a {
   text-align: left;
 }
 
-.search-form:first-child input {
-  margin-left: 21px;
+.search-form p:first-child input {
+  margin-left: 20px;
 }
 
 .search-item:nth-child(2) {
