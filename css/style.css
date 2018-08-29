@@ -161,7 +161,7 @@ a {
 .logo-s-intro {
   background-color: #9e7f76;
   background-image: url("../img/intro-mask.svg"), url("../img/maun.jpg");
-  background-position: center bottom, center top;
+  background-position: center bottom, 50% -20%;
   background-repeat: no-repeat, no-repeat;
 }
 
