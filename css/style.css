@@ -1007,16 +1007,23 @@ ul a {
   box-sizing: border-box;
 }
 
-/* .search-item:nth-child(4) {
-  margin-right: 55px;
-} */
-
-.search-item-text:nth-child(3), .search-item-text:nth-child(4) {
+.search-item:nth-child(3) input {
   width: 38px;
   padding: 6px 0;
   margin: 0;
   text-align: center;
 }
+
+/* .search-item:nth-child(4) {
+  margin-right: 55px;
+} */
+
+/* .search-item-text:nth-child(3), .search-item-text:nth-child(4) {
+  width: 38px;
+  padding: 6px 0;
+  margin: 0;
+  text-align: center;
+} */
 
 /* .search-item:nth-child(3), .search-item:nth-child(4) {
   width: 225px;
