@@ -989,7 +989,8 @@ ul a {
   margin-right: 8px;
 }
 
-.search-item:first-child {
+.search-item:first-child label {
+  display: inline-block;
   text-align: left;
 }
 
