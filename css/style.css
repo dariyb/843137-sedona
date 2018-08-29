@@ -985,6 +985,9 @@ ul a {
 
 .search-item:first-child {
   text-align: left;
+}
+
+.search-item label {
   padding-top: 10px;
 }
 
