@@ -123,6 +123,10 @@ a {
   padding: 3px 0;
 }
 
+.rating-star {
+  margin-top: 30px;
+}
+
 .description-unit-2 a:hover, .description-unit-2 a:focus {
   background-color: #604e43;
 }
