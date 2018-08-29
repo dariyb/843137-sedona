@@ -1013,6 +1013,8 @@ ul a {
 }
 
 .search-item:first-child {
+  display: block;
+  width: 458px;
   margin-top: 0;
   padding-top: 55px;
 }
