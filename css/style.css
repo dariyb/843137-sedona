@@ -985,6 +985,7 @@ ul a {
 
 .search-item:first-child {
   text-align: left;
+  padding-top: 10px;
 }
 
 .search-form p:first-child input {
