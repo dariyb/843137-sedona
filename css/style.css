@@ -566,6 +566,8 @@ ul a {
   outline: black solid 1px;
   width: 241px;
   min-height: 204px;
+  padding: 0;
+  padding-top: 30px;
 }
 
 .filter-housing {
