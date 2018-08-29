@@ -573,6 +573,11 @@ ul a {
   padding-top: 30px;
 }
 
+.infrastructure {
+  padding: 0;
+  margin: 30px 0;
+}
+
 .filter-housing {
   outline: black dotted 1px;
   width: 288px;
