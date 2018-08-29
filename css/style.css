@@ -366,7 +366,6 @@ a {
   font-weight: 400;
   color: rgba(0, 0, 0, 0.3);
   border-bottom: 1px dashed #81b3d2;
-  /* margin-right: 30px; */
 }
 
 .sorting-list a:hover, .sorting-list a:focus {
@@ -381,6 +380,7 @@ a {
   color: #81b3d2;
   border-bottom: none;
   padding-left: 40px;
+  margin-right: 29px;
 }
 
 .sorting-direction {
