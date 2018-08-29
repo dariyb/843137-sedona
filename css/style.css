@@ -702,11 +702,11 @@ ul a {
   display: flex;
 }
 
-.sorting-list:first-child {
+.sorting-list a:first-child {
   margin-left: 40px;
 }
 
-.sorting-list:nth-child(3) {
+.sorting-list a:nth-child(3) {
   margin-right: 10px;
   ;
 }
