@@ -161,6 +161,13 @@ a {
   border-radius: 2px;
 }
 
+.filter-interval label {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 38px;
+  vertical-align: top;
+}
+
 .filter-interval input[type="text"] {
   font: inherit;
   border: none;
