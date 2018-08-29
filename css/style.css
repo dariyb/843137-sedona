@@ -702,6 +702,15 @@ ul a {
   display: flex;
 }
 
+.sorting-list:first-child {
+  margin-left: 40px;
+}
+
+.sorting-list:nth-child(3) {
+  margin-right: 10px;
+  ;
+}
+
 .sorting-direction {
   outline: gray solid 1px;
   width: 35px;
