@@ -988,7 +988,9 @@ ul a {
   margin-right: 8px;
 }
 
-.search-item:nth-child(3) label {}
+.search-item label {
+  text-align: left;
+}
 
 .search-item:nth-child(4) {
   margin-right: 55px;
@@ -1013,8 +1015,6 @@ ul a {
 }
 
 .search-item:first-child {
-  display: block;
-  width: 458px;
   margin-top: 0;
   padding-top: 55px;
 }
