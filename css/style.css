@@ -981,6 +981,7 @@ ul a {
   width: 225px;
   margin: 15px 0;
   margin-bottom: 0;
+  text-align: left;
 }
 
 .search-item:nth-child(3) {
