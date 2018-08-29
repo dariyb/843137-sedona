@@ -243,15 +243,8 @@ a {
 }
 
 .show-results:hover, .show-results:focus {
-  font-size: 14px;
-  line-height: 21px;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: transparent;
-  background-color: #ffffff;
-  border: 2px solid #ffffff;
-  text-align: center;
-  vertical-align: middle;
+  color: #000000;
+  background: #ffffff;
 }
 
 .reasons-for {
