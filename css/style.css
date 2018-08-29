@@ -1052,7 +1052,7 @@ ul a {
 .find-results {
   width: 458px;
   margin: 55px;
-  min-height: 58px;
+  height: 58px;
   padding: 0;
 }
 
