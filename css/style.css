@@ -766,6 +766,7 @@ ul a {
 .description-unit {
   width: 111px;
   margin: 0;
+  margin-right: 6px;
   padding-left: 30px;
 }
 
