@@ -486,6 +486,7 @@ a {
 
 .search-calendar {
   border: none;
+  background-color: transparent;
 }
 
 .up, .down {
