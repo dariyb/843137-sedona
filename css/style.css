@@ -368,6 +368,10 @@ a {
   border-bottom: 1px dashed #81b3d2;
 }
 
+.sorting-list a:nth-child(2) {
+  margin-right: 29px;
+}
+
 .sorting-list a:hover, .sorting-list a:focus {
   color: #81b3d2;
 }
