@@ -594,6 +594,12 @@ ul a {
   padding-left: 14px;
 }
 
+.type-of-housing {
+  padding: 0;
+  margin: 30px 0;
+  margin-left: 15px;
+}
+
 .filter-price {
   outline: black dashed 1px;
   width: 328px;
