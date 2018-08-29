@@ -1044,7 +1044,7 @@ ul a {
   margin: 0;
 }
 
-.search-item:nth-child(3) .adults {
+.minus .adults {
   margin-left: 40px;
 }
 
