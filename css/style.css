@@ -593,19 +593,13 @@ ul a {
   display: none;
 }
 
-.main-header {
-  outline: black solid 2px;
-}
-
 .main-navigation {
-  outline: #dc6243 solid 2px;
   background-color: #ffffff;
   position: relative;
   min-height: 57px;
 }
 
 .main-header-logo {
-  outline: yellow solid 2px;
   width: 138px;
   height: 70px;
   position: absolute;
@@ -615,7 +609,6 @@ ul a {
 }
 
 .site-navigation {
-  outline: blue solid 2px;
   margin: 0;
   padding: 0;
   display: flex;
@@ -633,7 +626,6 @@ ul a {
 }
 
 .filter-search {
-  outline: blue solid 2px;
   display: flex;
   min-height: 204px;
   padding-left: 72px;
@@ -641,7 +633,6 @@ ul a {
 }
 
 .filter-infrastructure {
-  outline: black solid 1px;
   width: 241px;
   min-height: 204px;
   padding: 0;
@@ -661,7 +652,6 @@ ul a {
 }
 
 .filter-housing {
-  outline: black dotted 1px;
   width: 288px;
   min-height: 204px;
   padding: 0;
@@ -683,7 +673,6 @@ ul a {
 }
 
 .filter-price {
-  outline: black dashed 1px;
   width: 328px;
   min-height: 204px;
   margin-left: auto;
@@ -697,7 +686,6 @@ ul a {
 }
 
 .filter-results {
-  outline: green solid 2px;
   display: flex;
   min-height: 87px;
   padding-left: 72px;
@@ -706,7 +694,6 @@ ul a {
 }
 
 .search-results {
-  outline: gray solid 1px;
   width: 115px;
   margin: 0;
   margin-right: 42px;
@@ -714,14 +701,12 @@ ul a {
 }
 
 .sorting {
-  outline: gray dotted 1px;
   width: 83px;
   margin: 0;
   padding-top: 38px;
 }
 
 .sorting-list {
-  outline: gray dashed 1px;
   width: 288px;
   margin: 0;
   margin-right: 494px;
@@ -731,7 +716,6 @@ ul a {
 }
 
 .sorting-direction {
-  outline: gray solid 1px;
   width: 35px;
   margin: 0;
   padding: 0;
@@ -741,7 +725,6 @@ ul a {
 }
 
 .results-list {
-  outline: purple dotted 2px;
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -750,7 +733,6 @@ ul a {
 }
 
 .results-list-item {
-  outline: black solid 1px;
   width: 1056px;
   display: flex;
   flex-direction: row;
@@ -794,39 +776,33 @@ ul a {
 }
 
 .results-description {
-  outline: black dotted 1px;
   width: 571px;
   min-height: 59px;
 }
 
 .rating-box {
-  outline: black dashed 1px;
   width: 241px;
   min-height: 152px;
   margin-left: 88px;
 }
 
 .container {
-  /* outline: yellow solid 2px; */
   width: 1200px;
   margin: 0 auto;
 }
 
 .logo-s-intro {
-  outline: blue solid 2px;
   padding-top: 62px;
   min-height: 497px;
 }
 
 .logo-s {
-  outline: red solid 2px;
   height: 352px;
   display: block;
   margin: 0 auto;
 }
 
 .intro-container {
-  outline: green dotted 2px;
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -836,24 +812,20 @@ ul a {
 }
 
 .intro {
-  outline: gray solid 2px;
   margin: 0;
   margin-bottom: 37px;
 }
 
 .reasons-for {
-  outline: yellow dotted 2px;
   margin: 0;
 }
 
 .reasons-unit {
-  /* outline: black solid 2px; */
   display: flex;
   height: 256px;
 }
 
 .reasons-legend {
-  outline: white dashed 2px;
   width: 400px;
   background-color: #81b3d2;
 }
@@ -914,7 +886,6 @@ ul a {
 }
 
 .reasons-list {
-  outline: red dotted 2px;
   display: flex;
   margin: 0;
   padding-left: 0;
@@ -924,13 +895,11 @@ ul a {
 }
 
 .reasons-list-item {
-  outline: blue dotted 2px;
   width: 400px;
   padding: 0 47px;
 }
 
 .reasons-unit-2 {
-  outline: blue dashed 2px;
   width: 1200px;
   display: flex;
   background-color: #eeeeee;
@@ -938,14 +907,12 @@ ul a {
 }
 
 .reasons-block {
-  outline: gray dotted 2px;
   width: 400px;
   margin: auto;
   min-height: 166px;
 }
 
 .search-container {
-  outline: green solid 1px;
   width: 1200px;
   display: flex;
   flex-direction: column;
@@ -954,7 +921,6 @@ ul a {
 }
 
 .search-wrapper {
-  outline: black dotted 1px;
   width: 636px;
   min-height: 146px;
   margin: 0 auto;
@@ -975,7 +941,6 @@ ul a {
 }
 
 .search-form {
-  outline: yellow dashed 1px;
   width: 568px;
   display: flex;
   flex-wrap: wrap;
@@ -1074,21 +1039,18 @@ ul a {
 }
 
 .main-footer {
-  outline: blue solid 2px;
   background-color: rgba(255, 255, 255, 0.9);
   display: flex;
   min-height: 120px;
 }
 
 .hashtag {
-  outline: red dotted 1px;
   width: 400px;
   margin: 0;
   align-self: center;
 }
 
 .footer-social {
-  outline: green solid 1px;
   width: 400px;
   margin: 0;
   align-self: center;
@@ -1116,7 +1078,6 @@ ul a {
 }
 
 .footer-copyright {
-  outline: gray solid 2px;
   width: 400px;
   margin: 0;
   display: flex;
