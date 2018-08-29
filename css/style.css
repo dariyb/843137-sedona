@@ -600,6 +600,10 @@ ul a {
   margin-left: 15px;
 }
 
+.housing-item {
+  margin-top: 21px;
+}
+
 .filter-price {
   outline: black dashed 1px;
   width: 328px;
