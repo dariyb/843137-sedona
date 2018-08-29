@@ -988,7 +988,11 @@ ul a {
   margin-right: 8px;
 }
 
-.search-item:first-child label {
+.search-item:first-child {
+  text-align: left;
+}
+
+.search-item:nth-child(2) {
   text-align: left;
 }
 
