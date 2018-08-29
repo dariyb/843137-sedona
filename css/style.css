@@ -1010,7 +1010,7 @@ ul a {
   display: flex;
   width: 458px;
   box-sizing: border-box;
-  margin-bottom: 0;
+  margin: 0 55px;
 }
 
 /* .search-item:nth-child(3) input {
