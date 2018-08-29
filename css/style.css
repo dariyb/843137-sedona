@@ -988,7 +988,7 @@ ul a {
   margin-right: 8px;
 }
 
-.search-item label {
+.search-item:first-child {
   text-align: left;
 }
 
