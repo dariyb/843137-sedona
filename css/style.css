@@ -836,6 +836,7 @@ ul a {
 .search-item-text:nth-child(3), .search-item-text:nth-child(4) {
   width: 38px;
   padding: 6px 0;
+  text-align: center;
 }
 
 .minus {
