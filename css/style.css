@@ -485,7 +485,6 @@ a {
 }
 
 .search-calendar {
-  background-color: #e5e5e5;
   border: none;
 }
 
@@ -505,15 +504,15 @@ a {
   fill: #81b3d2;
 }
 
-.search-calendar svg {
-  fill: #a9a9a9;
+.search-calendar path {
+  fill: #cacaca;
 }
 
-.search-calendar svg:hover, .search-calendar svg:focus {
+.search-calendar path:hover, .search-calendar path:focus {
   fill: #000000;
 }
 
-.search-calendar svg:active {
+.search-calendar path:active {
   fill: #81b3d2;
 }
 
