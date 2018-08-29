@@ -822,6 +822,13 @@ ul a {
   position: absolute;
 }
 
+.search-item {
+  width: 458px;
+  padding-top: 55px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
 .find-results {
   width: 458px;
   margin: auto;
