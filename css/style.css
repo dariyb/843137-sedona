@@ -731,12 +731,11 @@ ul a {
   width: 1056px;
   display: flex;
   flex-direction: row;
-  min-height: 152px;
+  /* min-height: 152px; */
 }
 
 .results-image {
   width: 135px;
-  min-height: 90px;
   margin: 30px 0;
 }
 
