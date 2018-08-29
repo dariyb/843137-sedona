@@ -487,7 +487,6 @@ a {
 .search-calendar {
   background-color: #e5e5e5;
   border: none;
-  text-align: center;
 }
 
 .up, .down {
@@ -704,6 +703,7 @@ ul a {
   min-height: 87px;
   padding-left: 72px;
   padding-right: 72px;
+  border-bottom: 1px solid #e5e5e5;
 }
 
 .search-results {
@@ -755,6 +755,7 @@ ul a {
   width: 1056px;
   display: flex;
   flex-direction: row;
+  border-bottom: 1px solid #e5e5e5;
   /* min-height: 152px; */
 }
 
