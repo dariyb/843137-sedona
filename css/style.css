@@ -120,6 +120,7 @@ a {
   vertical-align: middle;
   display: block;
   width: 100%;
+  padding: 3px 0;
 }
 
 .description-unit-2 a:hover, .description-unit-2 a:focus {
