@@ -830,6 +830,7 @@ ul a {
 .search-item:nth-child(3), .search-item:nth-child(4) {
   width: 229px;
   margin: 15px 0;
+  margin-bottom: 0;
 }
 
 .search-item-text:nth-child(3), .search-item-text:nth-child(4) {
