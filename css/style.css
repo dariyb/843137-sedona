@@ -126,6 +126,7 @@ a {
 .rating-star p {
   margin-top: 30px;
   margin-bottom: 48px;
+  text-align: right;
 }
 
 .description-unit-2 a:hover, .description-unit-2 a:focus {
