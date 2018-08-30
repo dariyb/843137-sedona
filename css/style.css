@@ -923,6 +923,7 @@ ul a {
 .reasons-block {
   width: 400px;
   margin: auto;
+  padding-top: 44px;
 }
 
 .search-container {
