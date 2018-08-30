@@ -1048,9 +1048,14 @@ ul a {
 }
 
 .main-footer {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #ffffff;
+  opacity: 0.9;
   display: flex;
   min-height: 120px;
+}
+
+.main-footer .index {
+  position: absolute;
 }
 
 .hashtag {
