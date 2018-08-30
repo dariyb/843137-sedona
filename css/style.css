@@ -934,12 +934,12 @@ ul a {
 .search-wrapper {
   width: 636px;
   margin: 0 auto;
-  /* min-height: 146px; */
+  min-height: 146px;
 }
 
 .search-title-vacation {
   margin: 0;
-  margin-bottom: 32px;
+  margin-bottom: 28px;
 }
 
 .search-for-hotel {
