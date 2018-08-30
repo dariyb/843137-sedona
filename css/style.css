@@ -407,6 +407,7 @@ a {
 .search-title {
   color: #ffffff;
   text-align: center;
+  position: relative;
 }
 
 .search-title h2 {
@@ -1029,6 +1030,9 @@ ul a {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  position: absolute;
+  top: 50%;
+  left: 0;
 }
 
 .main-footer {
