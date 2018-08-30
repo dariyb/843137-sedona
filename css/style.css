@@ -621,14 +621,25 @@ ul a {
 
 .site-navigation li:first-child {
   padding-left: 72px;
+  text-align: left;
+}
+
+.site-navigation li:last-child {
+  padding-right: 72px;
+  text-align: right;
+}
+
+.site-navigation li:nth-child(3) {
+  text-align: right;
+}
+
+.site-navigation li:nth-child(2) {
+  text-align: left;
+  margin-right: 240px;
 }
 
 .site-navigation a {
   vertical-align: middle;
-}
-
-.site-navigation li:nth-child(2) {
-  margin-right: 240px;
 }
 
 .filter-search {
