@@ -8,6 +8,7 @@ body {
   color: #333333;
   text-transform: uppercase;
   background-color: #ffffff;
+  min-width: 1200px;
 }
 
 a {
@@ -596,7 +597,6 @@ ul a {
 .main-navigation {
   background-color: #ffffff;
   position: relative;
-  min-height: 57px;
 }
 
 .main-header-logo {
@@ -615,10 +615,12 @@ ul a {
   flex-wrap: wrap;
 }
 
-.site-navigation a {
-  display: block;
-  vertical-align: middle;
+.site-navigation li {
   padding: 16px 72px;
+}
+
+.site-navigation a {
+  vertical-align: middle;
 }
 
 .site-navigation li:nth-child(2) {
