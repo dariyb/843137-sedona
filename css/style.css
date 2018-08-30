@@ -1036,7 +1036,7 @@ ul a {
 .map-image img {
   position: absolute;
   bottom: 20%;
-  left: -5%;
+  left: 0;
 }
 
 .main-footer {
