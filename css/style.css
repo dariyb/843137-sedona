@@ -720,8 +720,11 @@ ul a {
   padding: 0;
   padding-top: 38px;
   display: flex;
-  justify-content: space-between;
-  text-align: right;
+  justify-content: flex-end;
+}
+
+.sorting-direction li:first-child {
+  margin-right: 12px;
 }
 
 .results-list {
