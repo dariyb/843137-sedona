@@ -691,6 +691,7 @@ ul a {
   display: flex;
   padding-left: 72px;
   padding-right: 72px;
+  padding-bottom: 26px;
   border-bottom: 1px solid #e5e5e5;
 }
 
