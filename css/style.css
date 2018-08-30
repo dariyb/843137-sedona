@@ -1057,6 +1057,8 @@ ul a {
 .main-footer .index {
   position: absolute;
   z-index: 2;
+  background-color: #ffffff;
+  opacity: 0.9;
 }
 
 .hashtag {
