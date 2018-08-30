@@ -1095,7 +1095,7 @@ ul a {
 }
 
 .logo-a:hover, .logo-a:focus {
-  color: #81b3d2;
+  fill: #81b3d2;
 }
 
 .logo-a:active {
