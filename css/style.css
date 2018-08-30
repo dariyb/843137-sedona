@@ -555,11 +555,6 @@ a {
   background-color: #5496bd;
 }
 
-.main-footer {
-  background-color: rgba(254, 254, 254, 0.9);
-  text-align: center;
-}
-
 .hashtag {
   font-size: 21px;
   line-height: 26px;
@@ -1048,15 +1043,14 @@ ul a {
 }
 
 .main-footer {
-  background-color: #ffffff;
-  opacity: 0.9;
+  background: rgba(255, 255, 255, 0.9);
   display: flex;
   min-height: 120px;
+  text-align: center;
 }
 
 .main-footer .index {
   position: absolute;
-  background: rgba(255, 255, 255, 0.9);
   z-index: 2;
 }
 
