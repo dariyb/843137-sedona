@@ -369,10 +369,6 @@ a {
   background-color: #fefefe;
 }
 
-.sorting-list {
-  list-style: none;
-}
-
 .sorting-list a {
   font-size: 12px;
   line-height: 18px;
@@ -714,6 +710,7 @@ ul a {
   padding: 0;
   padding-top: 38px;
   display: flex;
+  list-style: none;
 }
 
 .sorting-direction {
