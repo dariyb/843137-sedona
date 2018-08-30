@@ -461,6 +461,10 @@ a {
   line-height: 26px;
 }
 
+.search-item-text::placeholder {
+  color: #000000;
+}
+
 .search-item-text:hover {
   background-color: #ebebeb;
 }
