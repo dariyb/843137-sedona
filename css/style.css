@@ -916,10 +916,8 @@ ul a {
 }
 
 .reasons-unit-2 {
-  width: 1200px;
   display: flex;
   background-color: #eeeeee;
-  min-height: 256px;
 }
 
 .reasons-block {
