@@ -407,7 +407,6 @@ a {
 .search-title {
   color: #ffffff;
   text-align: center;
-  position: relative;
 }
 
 .search-title h2 {
@@ -914,8 +913,6 @@ ul a {
 
 .search-container {
   padding-top: 53px;
-  position: absolute;
-  z-index: 3;
 }
 
 .search-wrapper {
@@ -944,7 +941,6 @@ ul a {
   background-color: #ffffff;
   min-height: 395px;
   position: absolute;
-  z-index: 6;
 }
 
 .search-item input {
@@ -1033,11 +1029,6 @@ ul a {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  position: absolute;
-  z-index: 1;
-  top: 0;
-  left: -5%;
-  /* transform: translateY(-20%); */
 }
 
 .main-footer {
