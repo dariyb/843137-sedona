@@ -1095,10 +1095,10 @@ ul a {
   fill: #231f20;
 }
 
-/* .logo-a:hover, .logo-a:focus {
+.footer-copyright a:hover, .footer-copyright a:focus {
   fill: #81b3d2;
 }
 
-.logo-a:active {
+.footer-copyright a:active {
   fill: #bdbbbc;
-} */
+}
