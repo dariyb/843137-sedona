@@ -934,7 +934,7 @@ ul a {
 .search-wrapper {
   width: 636px;
   margin: 0 auto;
-  min-height: 146px;
+  /* min-height: 146px; */
 }
 
 .search-title-vacation {
@@ -946,8 +946,7 @@ ul a {
   width: 568px;
   background-color: #766357;
   margin: 0 316px;
-  margin-top: 50px;
-  min-height: 86px;
+  /* min-height: 86px; */
   padding: 0;
 }
 
