@@ -689,7 +689,6 @@ ul a {
 
 .filter-results {
   display: flex;
-  min-height: 87px;
   padding-left: 72px;
   padding-right: 72px;
   border-bottom: 1px solid #e5e5e5;
@@ -709,9 +708,9 @@ ul a {
 }
 
 .sorting-list {
-  width: 288px;
+  /* width: 288px; */
   margin: 0;
-  margin-right: 494px;
+  /* margin-right: 494px; */
   padding: 0;
   padding-top: 38px;
   display: flex;
