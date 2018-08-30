@@ -1094,10 +1094,10 @@ ul a {
   align-self: center;
 }
 
-.logo-a:hover, .logo-a:focus {
+.logo-a:hover svg, .logo-a:focus svg {
   fill: #81b3d2;
 }
 
-.logo-a:active {
-  color: #bdbbbc;
+.logo-a:active svg {
+  fill: #bdbbbc;
 }
