@@ -470,6 +470,7 @@ a {
 }
 
 .search-item-text:focus {
+  outline: none;
   background-color: transparent;
   border: 2px solid #e5e5e5;
 }
