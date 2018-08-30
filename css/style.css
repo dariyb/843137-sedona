@@ -1092,13 +1092,12 @@ ul a {
 
 .footer-copyright a {
   align-self: center;
-  color: #231f20;
 }
 
-.footer-copyright a:hover, .footer-copyright a:focus {
+.logo-a:hover, .logo-a:focus {
   color: #81b3d2;
 }
 
-.footer-copyright a:active {
+.logo-a:active {
   color: #bdbbbc;
 }
