@@ -1053,6 +1053,8 @@ ul a {
 .index {
   position: absolute;
   z-index: 10;
+  bottom: 0;
+  background: rgba(254, 254, 254, 0.9);
 }
 
 .hashtag {
