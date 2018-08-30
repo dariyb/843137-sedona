@@ -1034,7 +1034,7 @@ ul a {
   z-index: 5;
   top: 20%;
   left: -5%;
-  transform: translateY(-20%);
+  /* transform: translateY(-20%); */
 }
 
 .main-footer {
