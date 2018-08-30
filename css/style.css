@@ -1036,7 +1036,7 @@ ul a {
 .map-image img {
   position: absolute;
   top: 30%;
-  left: -3%;
+  right: 4%;
   transform: translateY(-30%);
 }
 
