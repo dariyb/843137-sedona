@@ -1043,15 +1043,14 @@ ul a {
 }
 
 .main-footer {
-  background: rgba(255, 255, 255, 0.9);
   display: flex;
   min-height: 120px;
   text-align: center;
+  background: rgba(255, 255, 255, 0.9);
 }
 
 .main-footer .index {
   position: absolute;
-  z-index: 2;
 }
 
 .hashtag {
