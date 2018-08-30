@@ -1092,13 +1092,13 @@ ul a {
 
 .footer-copyright a {
   align-self: center;
-  fill: #231f20;
+  color: #231f20;
 }
 
 .footer-copyright a:hover, .footer-copyright a:focus {
-  fill: #81b3d2;
+  color: #81b3d2;
 }
 
 .footer-copyright a:active {
-  fill: #bdbbbc;
+  color: #bdbbbc;
 }
