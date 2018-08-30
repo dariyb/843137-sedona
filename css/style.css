@@ -610,13 +610,14 @@ ul a {
 
 .site-navigation {
   margin: 0;
-  padding: 0;
+  padding: 15px 0;
   display: flex;
   flex-wrap: wrap;
 }
 
 .site-navigation li {
   width: 240px;
+  box-sizing: border-box;
 }
 
 .site-navigation li:first-child {
