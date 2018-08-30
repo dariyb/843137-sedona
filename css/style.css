@@ -55,6 +55,7 @@ a {
 
 .filter-search fieldset {
   border: none;
+  margin: 0;
 }
 
 .filter-title {
