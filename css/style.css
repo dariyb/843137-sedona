@@ -928,8 +928,6 @@ ul a {
 }
 
 .search-container {
-  display: flex;
-  flex-direction: column;
   padding-top: 53px;
 }
 
