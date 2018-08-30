@@ -904,14 +904,14 @@ ul a {
 .reasons-list {
   display: flex;
   margin: 0;
-  padding-left: 0;
-  padding-top: 56px;
+  padding: 0;
   background-color: #ffffff;
 }
 
 .reasons-list-item {
   width: 400px;
   padding: 0 47px;
+  padding-top: 56px;
   padding-bottom: 85px;
 }
 
