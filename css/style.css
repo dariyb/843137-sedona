@@ -1035,9 +1035,9 @@ ul a {
 
 .map-image img {
   position: absolute;
-  top: 23%;
-  left: -3.5%;
-  transform: translateY(-23%);
+  top: 30%;
+  left: -3%;
+  transform: translateY(-30%);
 }
 
 .main-footer {
