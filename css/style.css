@@ -617,7 +617,7 @@ ul a {
 
 .site-navigation li {
   width: 240px;
-  /* padding: 16px 72px; */
+  padding: 0 72px;
 }
 
 .site-navigation a {
