@@ -941,6 +941,7 @@ ul a {
   background-color: #ffffff;
   min-height: 395px;
   position: absolute;
+  z-index: 3;
 }
 
 .search-item input {
