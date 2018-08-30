@@ -907,12 +907,12 @@ ul a {
   padding-left: 0;
   padding-top: 56px;
   background-color: #ffffff;
-  padding-bottom: 85px;
 }
 
 .reasons-list-item {
   width: 400px;
   padding: 0 47px;
+  padding-bottom: 85px;
 }
 
 .reasons-unit-2 {
