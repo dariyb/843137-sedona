@@ -928,6 +928,7 @@ ul a {
 }
 
 .search-container {
+  padding: 0;
   padding-top: 53px;
 }
 
@@ -936,7 +937,6 @@ ul a {
   min-height: 146px;
   margin: 0 auto;
   min-height: 146px;
-  padding: 0;
 }
 
 .search-title-vacation {
