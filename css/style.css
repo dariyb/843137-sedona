@@ -946,7 +946,7 @@ ul a {
   width: 568px;
   background-color: #766357;
   margin: 0 316px;
-  /* min-height: 86px; */
+  min-height: 86px;
   padding: 0;
 }
 
