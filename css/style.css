@@ -1031,6 +1031,7 @@ ul a {
   padding: 0;
   overflow: hidden;
   position: absolute;
+  z-index: 5;
   top: 50%;
   left: 0;
   transform: translateY(-50%);
