@@ -928,11 +928,9 @@ ul a {
 }
 
 .search-container {
-  width: 1200px;
   display: flex;
   flex-direction: column;
   margin-top: 53px;
-  min-height: 232px;
 }
 
 .search-wrapper {
