@@ -823,10 +823,6 @@ ul a {
 
 .intro-container {
   background-color: #ffffff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  flex-wrap: wrap;
   padding: 58px 317px;
 }
 
