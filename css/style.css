@@ -1054,7 +1054,7 @@ ul a {
   min-height: 120px;
 }
 
-.index {
+.main-footer .index {
   position: absolute;
   z-index: 2;
 }
