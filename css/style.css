@@ -864,9 +864,9 @@ ul a {
 
 .reasons-image img {
   position: absolute;
-  top: 48%;
+  top: 54%;
   left: 0;
-  transform: translateY(-50%);
+  transform: translateY(-54%);
 }
 
 .reason-image {
