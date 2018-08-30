@@ -246,7 +246,7 @@ a {
   border: none;
 }
 
-.filter-range-handle svg:hover, .filter-range-handle svg:focus {
+.filter-range-handle:hover svg, .filter-range-handle:focus svg {
   width: 22px;
   height: 24px;
 }
