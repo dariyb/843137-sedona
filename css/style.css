@@ -617,7 +617,10 @@ ul a {
 
 .site-navigation li {
   width: 240px;
-  padding: 0 72px;
+}
+
+.site-navigation li:first-child {
+  padding-left: 72px;
 }
 
 .site-navigation a {
