@@ -1037,7 +1037,6 @@ ul a {
   position: absolute;
   top: 30%;
   right: 0;
-  transform: translateY(-30%);
 }
 
 .main-footer {
