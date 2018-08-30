@@ -914,6 +914,7 @@ ul a {
 
 .search-container {
   padding-top: 53px;
+  position: absolute;
   z-index: 3;
 }
 
