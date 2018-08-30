@@ -735,7 +735,6 @@ ul a {
 .results-list-item {
   width: 1056px;
   display: flex;
-  flex-direction: row;
   padding: 0 72px;
   border-bottom: 1px solid #e5e5e5;
 }
