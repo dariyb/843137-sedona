@@ -882,7 +882,7 @@ ul a {
 
 .reasons-image img {
   position: absolute;
-  top: 52%;
+  top: 48%;
   left: 0;
   transform: translateY(-50%);
 }
