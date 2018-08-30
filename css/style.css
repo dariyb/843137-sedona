@@ -1035,7 +1035,7 @@ ul a {
 
 .map-image img {
   position: absolute;
-  top: 50%;
+  bottom: 50%;
   left: -5%;
 }
 
