@@ -194,8 +194,8 @@ a {
 .reasons-list-item {
   width: 400px;
   padding: 0 47px;
-  padding-top: 59px;
-  padding-bottom: 62px;
+  padding-top: 60px;
+  padding-bottom: 66px;
 }
 
 .reasons-list-item h3 {
@@ -208,7 +208,7 @@ a {
 }
 
 .reasons-list-item:nth-child(1) h3 {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .reasons-list-item:nth-child(3) h3 {
