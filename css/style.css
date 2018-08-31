@@ -449,8 +449,8 @@ a {
 .minus::before, .minus::after {
   content: "";
   position: absolute;
-  width: 10px;
-  height: 8px;
+  width: 12px;
+  height: 3px;
   background-color: #a9a9a9;
 }
 
