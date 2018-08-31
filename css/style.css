@@ -229,6 +229,10 @@ a {
   padding: 0 43px;
 }
 
+.text-2:nth-child(2) {
+  margin-top: 22px;
+}
+
 .reason-image {
   width: 800px;
   order: -1;
