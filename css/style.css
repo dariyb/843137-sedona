@@ -470,6 +470,10 @@ a {
   left: 45%;
 }
 
+.plus::after {
+  left: 70%
+}
+
 .m-adults {
   margin-left: 40px;
 }
