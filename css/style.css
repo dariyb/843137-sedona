@@ -436,7 +436,7 @@ a {
 
 .minus, .plus {
   font: inherit;
-  color: #a9a9a9;
+  /* color: #a9a9a9; */
   background-color: #f2f2f2;
   border: none;
   width: 38px;
