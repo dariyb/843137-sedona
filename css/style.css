@@ -262,7 +262,7 @@ a {
 }
 
 .search-title {
-  color: #ffffff;
+  background-color: #ffffff;
   text-align: center;
 }
 
@@ -272,7 +272,6 @@ a {
 
 .search-wrapper {
   width: 636px;
-  background-color: #ffffff;
   margin: 0 auto;
 }
 
