@@ -490,7 +490,7 @@ a {
 }
 
 .p-adults::after:hover {
-  color: #000000;
+  background: #000000;
 }
 
 .m-adults {
