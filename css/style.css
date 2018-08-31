@@ -446,12 +446,14 @@ a {
   margin: 0;
 }
 
-.minus::after {
+.minus::after, .minus::before {
   content: "";
   position: absolute;
   width: 12px;
   height: 3px;
   background-color: #a9a9a9;
+  top: 52.6%;
+  left: 32%;
 }
 
 .m-adults {
