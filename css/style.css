@@ -489,10 +489,6 @@ a {
   left: 86%;
 }
 
-.minus:hover ::after {
-  background-color: #000000;
-}
-
 .m-adults {
   margin-left: 40px;
 }
