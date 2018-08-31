@@ -379,17 +379,21 @@ a {
   border: none;
   text-transform: uppercase;
   line-height: 26px;
-}
-
-.search-item input {
   box-sizing: border-box;
   width: 308px;
   padding: 5px 0;
   padding-left: 13px;
 }
 
+/* .search-item input {
+  box-sizing: border-box;
+  width: 308px;
+  padding: 5px 0;
+  padding-left: 13px;
+} */
+
 .search-form p:first-child input {
-  margin-left: 24px;
+  margin-left: 23px;
 }
 
 .search-form p:nth-child(2) input {
@@ -417,6 +421,9 @@ a {
 
 .search-item-text:focus {
   outline: none;
+  height: 36px;
+  padding: 4px 0;
+  padding-left: 11px;
   background-color: transparent;
   border: 2px solid #e5e5e5;
 }
@@ -427,7 +434,7 @@ a {
 }
 
 .search-calendar svg {
-  fill: #cacaca;
+  fill: #a9a9a9;
 }
 
 .search-calendar svg:hover, .search-calendar svg:focus {
