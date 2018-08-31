@@ -485,6 +485,10 @@ a {
   transform: rotate(90deg);
 }
 
+.minus:hover::after {
+  background-color: #000000;
+}
+
 .p-adults::after {
   left: 86%;
 }
