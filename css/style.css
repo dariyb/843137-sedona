@@ -207,7 +207,7 @@ a {
   margin: 25px 0;
 }
 
-.reasons-list:first-child .reasons-title {
+.reasons-list:first-child>.reasons-title {
   margin-bottom: 23px;
 }
 
