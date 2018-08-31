@@ -385,13 +385,6 @@ a {
   padding-left: 13px;
 }
 
-/* .search-item input {
-  box-sizing: border-box;
-  width: 308px;
-  padding: 5px 0;
-  padding-left: 13px;
-} */
-
 .search-form p:first-child input {
   margin-left: 23px;
 }
@@ -435,6 +428,10 @@ a {
 .search-calendar {
   background-color: #f2f2f2;
   border: none;
+  width: 36px;
+  padding: 0;
+  padding-top: 2px;
+  padding-left: 4px;
 }
 
 .search-calendar svg {
