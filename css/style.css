@@ -501,7 +501,7 @@ a {
   margin-right: 53px;
 }
 
-.minus:hover::after {
+.minus:hover, .plus:hover, .minus:focus, .plus:focus {
   background-color: : #000000;
 }
 
