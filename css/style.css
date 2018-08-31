@@ -470,8 +470,23 @@ a {
   left: 45%;
 }
 
+.plus-adults::after, .plus-adults::before {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 3px;
+  background-color: #a9a9a9;
+  top: 53%;
+  left: 45%;
+  transform: rotate(90deg);
+}
+
+.plus-adults::after {
+  left: 73%;
+}
+
 .plus::after {
-  left: 70%
+  left: 86%
 }
 
 .m-adults {
