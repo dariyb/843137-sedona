@@ -628,7 +628,7 @@ a {
 .footer-copyright a {
   align-self: center;
   padding-top: 5px;
-  padding-left: 16px;
+  margin-left: 10px;
 }
 
 .logo-a:hover path, .logo-a:focus path {
