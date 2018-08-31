@@ -428,10 +428,9 @@ a {
   border: 2px solid #e5e5e5;
 }
 
-.search-item:nth-child(3) input:focus {
-  height: 36px;
-  padding: 3px 0;
-}
+/* .search-item:nth-child(3) input:focus {
+  height: 38px;
+} */
 
 .search-calendar {
   background-color: #f2f2f2;
