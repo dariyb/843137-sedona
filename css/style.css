@@ -455,6 +455,16 @@ a {
   left: 32%;
 }
 
+.m-kids::after {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 3px;
+  background-color: #a9a9a9;
+  top: 52.6%;
+  left: 73%;
+}
+
 .p-adults::after, .p-adults::before {
   content: "";
   position: absolute;
