@@ -489,7 +489,7 @@ a {
   left: 86%;
 }
 
-.minus:hover {
+.minus:hover::after {
   color: #000000;
 }
 
