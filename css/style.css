@@ -445,7 +445,7 @@ a {
   margin: 0;
 }
 
-.minus::after, .plus::before {
+.m-adults::after {
   content: "";
   position: absolute;
   width: 12px;
@@ -455,11 +455,11 @@ a {
   left: 32%;
 }
 
-.plus::before {
+/* .plus::before {
   left: 73%;
-}
+} */
 
-.plus::after, .minus::before {
+/* .plus::after, .minus::before {
   content: "";
   position: absolute;
   width: 12px;
@@ -471,7 +471,7 @@ a {
 
 .plus::after {
   left: 86%
-}
+} */
 
 .p-adults::after, .p-adults::before {
   content: "";
@@ -500,7 +500,7 @@ a {
   margin-right: 53px;
 }
 
-.minus:hover::after, .minus:hover::before, .plus:hover::after, .plus:hover::before, .minus:focus::after, .minus:focus::before, .plus:focus::after, .plus:focus::before {
+/* .minus:hover::after, .minus:hover::before, .plus:hover::after, .plus:hover::before, .minus:focus::after, .minus:focus::before, .plus:focus::after, .plus:focus::before {
   background-color: #000000;
 }
 
@@ -514,7 +514,7 @@ a {
 
 .p-adults:active::after, .p-adults:active::before {
   background-color: #81b3d2;
-}
+} */
 
 .find-results {
   font-family: inherit;
