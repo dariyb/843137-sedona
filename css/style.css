@@ -446,7 +446,7 @@ a {
   margin: 0;
 }
 
-.minus::before, .minus::after {
+.minus::after {
   content: "";
   position: absolute;
   width: 12px;
