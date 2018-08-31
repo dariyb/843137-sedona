@@ -404,7 +404,7 @@ a {
 }
 
 .search-item:nth-child(3) label {
-  padding-top: 2px;
+  padding-top: 7px;
 }
 
 .search-item-text::placeholder {
