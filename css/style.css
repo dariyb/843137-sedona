@@ -489,6 +489,10 @@ a {
   left: 86%;
 }
 
+.minus::after:hover {
+  background-color: #000000;
+}
+
 .m-adults {
   margin-left: 40px;
 }
@@ -501,13 +505,13 @@ a {
   margin-right: 53px;
 }
 
-.minus:hover, .plus:hover, .minus:focus, .plus:focus {
+/* .minus:hover, .plus:hover, .minus:focus, .plus:focus {
   background-color: : #000000;
 }
 
 .minus:active, .plus:active {
   color: #81b3d2;
-}
+} */
 
 .find-results {
   font-family: inherit;
