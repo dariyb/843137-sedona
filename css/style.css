@@ -459,24 +459,6 @@ a {
   background-color: #000000;
 }
 
-/* .plus::before {
-  left: 73%;
-} */
-
-/* .plus::after, .minus::before {
-  content: "";
-  position: absolute;
-  width: 12px;
-  height: 3px;
-  background-color: #a9a9a9;
-  top: 52.6%;
-  left: 45%;
-}
-
-.plus::after {
-  left: 86%
-} */
-
 .p-adults::after, .p-adults::before {
   content: "";
   position: absolute;
@@ -485,11 +467,11 @@ a {
   background-color: #a9a9a9;
   top: 52.6%;
   left: 45%;
-  transform: rotate(90deg);
 }
 
 .p-adults::after {
-  left: 86%;
+  left: 45%;
+  transform: rotate(90deg);
 }
 
 .m-adults {
