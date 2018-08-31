@@ -498,6 +498,10 @@ a {
   background-color: #000000;
 }
 
+.m-adults:active::after, .m-kids:active::after, .p-adults:active::after, .p-adults:active::before, .p-kids:active::after, .p-kids:active::before {
+  background-color: #81b3d2;
+}
+
 .m-adults {
   margin-left: 40px;
 }
@@ -509,22 +513,6 @@ a {
 .p-adults {
   margin-right: 53px;
 }
-
-/* .minus:hover::after, .minus:hover::before, .plus:hover::after, .plus:hover::before, .minus:focus::after, .minus:focus::before, .plus:focus::after, .plus:focus::before {
-  background-color: #000000;
-}
-
-.minus:active::after, .minus:active::before, .plus:active::after, .plus:active::before {
-  background-color: #81b3d2;
-}
-
-.p-adults:hover::after, .p-adults:hover::before, .p-adults:focus::after, .p-adults:focus::before {
-  background-color: #000000;
-}
-
-.p-adults:active::after, .p-adults:active::before {
-  background-color: #81b3d2;
-} */
 
 .find-results {
   font-family: inherit;
