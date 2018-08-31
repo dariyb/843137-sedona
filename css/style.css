@@ -439,7 +439,7 @@ a {
 
 .search-calendar svg:hover, .search-calendar svg:focus {
   fill: #000000;
-  background-color: #ebebeb
+  background-color: #ebebeb;
 }
 
 .search-calendar svg:active {
