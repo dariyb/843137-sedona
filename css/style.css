@@ -446,7 +446,7 @@ a {
   margin: 0;
 }
 
-.minus::after, .minus::before {
+.minus::after, .plus::before {
   content: "";
   position: absolute;
   width: 12px;
@@ -454,6 +454,20 @@ a {
   background-color: #a9a9a9;
   top: 52.6%;
   left: 32%;
+}
+
+.plus::before {
+  left: 73%;
+}
+
+.plus::after, .minus::before {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 3px;
+  background-color: #a9a9a9;
+  top: 52.6%;
+  left: 45%;
 }
 
 .m-adults {
