@@ -389,7 +389,7 @@ a {
 }
 
 .search-form p:first-child input {
-  margin-left: 25px;
+  margin-left: 24px;
 }
 
 .search-form p:nth-child(2) input {
@@ -401,6 +401,10 @@ a {
   padding: 6px 0;
   margin: 0;
   text-align: center;
+}
+
+.search-item:nth-child(3) label {
+  padding-top: 2px;
 }
 
 .search-item-text::placeholder {
