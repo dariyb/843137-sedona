@@ -208,7 +208,7 @@ a {
 }
 
 .reasons-list-item:nth-child(1) h3 {
-  margin-bottom: 20px;
+  margin-bottom: 23px;
 }
 
 .reasons-list-item:nth-child(3) h3 {
@@ -225,12 +225,8 @@ a {
 .text-2 {
   width: 313px;
   margin: 0;
-  margin-top: 22px;
+  margin-top: 23px;
   padding: 0 43px;
-}
-
-.text-2:nth-child(2) {
-  margin-top: 22px;
 }
 
 .reason-image {
@@ -255,8 +251,8 @@ a {
 
 .reasons-block {
   width: 400px;
-  padding-top: 47px;
-  padding-bottom: 56px;
+  padding-top: 48px;
+  padding-bottom: 57px;
 }
 
 .reasons-block h3 {
@@ -272,8 +268,12 @@ a {
 .reasons-block p {
   width: 262px;
   margin: 0;
-  margin-top: 24px;
-  padding: 0 69px;
+  margin-top: 23px;
+  padding: 0 68px;
+}
+
+.reasons-block:nth-child(3) p {
+  padding: 0 70px;
 }
 
 .search-title {
