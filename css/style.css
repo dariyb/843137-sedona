@@ -455,6 +455,10 @@ a {
   left: 32%;
 }
 
+.m-adults:hover::after {
+  background-color: #000000;
+}
+
 /* .plus::before {
   left: 73%;
 } */
