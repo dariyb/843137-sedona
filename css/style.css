@@ -456,6 +456,21 @@ a {
   left: 32%;
 }
 
+.p-adults::after, .p-adults::before {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 3px;
+  background-color: #a9a9a9;
+  top: 53%;
+  left: 45%;
+  transform: rotate(90deg);
+}
+
+.p-adults::after {
+  left: 73%;
+}
+
 .plus::before {
   left: 73%;
 }
@@ -468,21 +483,6 @@ a {
   background-color: #a9a9a9;
   top: 52.6%;
   left: 45%;
-}
-
-.plus-adults::after, .plus-adults::before {
-  content: "";
-  position: absolute;
-  width: 12px;
-  height: 3px;
-  background-color: #a9a9a9;
-  top: 53%;
-  left: 45%;
-  transform: rotate(90deg);
-}
-
-.plus-adults::after {
-  left: 73%;
 }
 
 .plus::after {
