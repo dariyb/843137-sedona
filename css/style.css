@@ -676,6 +676,12 @@ a {
   color: #ffffff;
 }
 
+.type-of-housing {
+  padding: 0;
+  margin: 30px 0;
+  margin-left: 15px;
+}
+
 .filter-search ul {
   font-size: 14px;
   line-height: 21px;
@@ -1012,12 +1018,6 @@ a {
 .filter-housing legend {
   padding-top: 30px;
   padding-left: 14px;
-}
-
-.type-of-housing {
-  padding: 0;
-  margin: 30px 0;
-  margin-left: 15px;
 }
 
 .housing-item {
