@@ -702,7 +702,7 @@ a {
   background-repeat: no-repeat;
 }
 
-.checkbox-filter-form:checked .checkbox-filter::before {
+.checkbox-filter-form:checked+.checkbox-filter::before {
   width: 27px;
   background-image: url("../img/checkbox-on.svg");
 }
