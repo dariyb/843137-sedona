@@ -846,16 +846,16 @@ a {
   left: 75%;
 }
 
+.from {
+  padding-left: 50px;
+}
+
 .filter-interval label {
   display: inline-block;
   font-size: 14px;
   vertical-align: top;
   width: 90px;
   padding-left: 61px;
-}
-
-.from {
-  padding-left: 50px;
 }
 
 .filter-interval input[type="text"] {
