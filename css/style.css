@@ -687,6 +687,7 @@ a {
 
 .checkbox-filter {
   position: relative;
+  padding-left: 40px;
 }
 
 .checkbox-filter::before {
