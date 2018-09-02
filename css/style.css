@@ -800,8 +800,11 @@ a {
   font-weight: 400;
   color: #ffffff;
   position: relative;
-  height: 36px;
+  width: 315px;
+  margin: 0;
   margin-bottom: 20px;
+  margin-left: 10px;
+  padding: 5px 0;
   border: 2px solid #ffffff;
   border-radius: 2px;
 }
@@ -841,6 +844,10 @@ a {
 
 .max {
   left: 75%;
+}
+
+.filter-interval+label {
+  padding-left: 60px;
 }
 
 .filter-interval label {
@@ -997,7 +1004,8 @@ a {
 }
 
 .filter-infrastructure legend {
-  padding-top: 30px;
+  padding: 0;
+  padding-top: 26px;
 }
 
 .infrastructure {
@@ -1017,7 +1025,7 @@ a {
 }
 
 .filter-housing legend {
-  padding-top: 30px;
+  padding-top: 26px;
   padding-left: 14px;
 }
 
@@ -1032,9 +1040,9 @@ a {
 }
 
 .filter-price p {
-  padding-top: 30px;
+  padding-top: 26px;
   margin: 0;
-  margin-left: 10px;
+  margin-left: 12px;
   margin-bottom: 10px;
 }
 
