@@ -719,7 +719,7 @@ a {
   font-weight: 400;
   color: #333333;
   margin: 0;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 .description-unit a {
@@ -750,7 +750,7 @@ a {
   font-weight: 400;
   color: #333333;
   margin: 0;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 .description-unit-2 a {
@@ -767,8 +767,8 @@ a {
 }
 
 .rating-star p {
-  margin-top: 30px;
-  margin-bottom: 48px;
+  margin-top: 28px;
+  margin-bottom: 42px;
   text-align: right;
 }
 
@@ -1047,7 +1047,7 @@ a {
   display: flex;
   padding-left: 72px;
   padding-right: 72px;
-  padding-bottom: 26px;
+  padding-bottom: 30px;
   border-bottom: 1px solid #e5e5e5;
 }
 
@@ -1102,6 +1102,7 @@ a {
 .results-image {
   width: 135px;
   margin: 30px 0;
+  margin-bottom: 0;
 }
 
 .hotels-photo {
@@ -1111,8 +1112,9 @@ a {
 
 .hotels-name {
   width: 544px;
+  height: 26px;
+  margin: 0;
   margin-top: 25px;
-  margin-bottom: 15px;
   padding: 0;
   padding-left: 30px;
 }
@@ -1120,13 +1122,16 @@ a {
 .results-description {
   display: flex;
   flex-wrap: wrap;
+  min-height: 59px;
 }
 
 .description-unit {
   width: 111px;
   margin: 0;
   margin-right: 6px;
+  padding: 0;
   padding-left: 30px;
+  padding-bottom: 24px;
 }
 
 .description-unit-2 {
@@ -1134,13 +1139,8 @@ a {
   margin: 0;
 }
 
-.results-description {
-  width: 571px;
-  min-height: 59px;
-}
-
 .rating-box {
   width: 241px;
   min-height: 152px;
-  margin-left: 88px;
+  margin-left: auto;
 }
