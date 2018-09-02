@@ -683,6 +683,19 @@ a {
   list-style: none;
 }
 
+/* -------- */
+
+.checkbox-filter::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 23px;
+  height: 23px;
+  background-image: url("../img/checkbox-off.svg");
+  background-repeat: no-repeat;
+}
+
 .description-unit p {
   font-size: 14px;
   line-height: 21px;
