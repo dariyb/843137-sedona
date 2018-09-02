@@ -693,8 +693,9 @@ a {
 .checkbox-filter::before {
   content: "";
   position: absolute;
-  left: 0;
   top: 50%;
+  left: 0;
+  transform: translateY(-50%);
   width: 23px;
   height: 23px;
   background-image: url("../img/checkbox-off.svg");
