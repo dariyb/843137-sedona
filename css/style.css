@@ -902,10 +902,6 @@ a {
   background-color: #fefefe;
 }
 
-.results-list {
-  list-style: none;
-}
-
 .hotels-name a {
   font-size: 21px;
   line-height: 26px;
@@ -1047,7 +1043,7 @@ a {
   display: flex;
   padding-left: 72px;
   padding-right: 72px;
-  padding-bottom: 30px;
+  padding-bottom: 29px;
   border-bottom: 1px solid #e5e5e5;
 }
 
@@ -1085,6 +1081,7 @@ a {
 }
 
 .results-list {
+  list-style: none;
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -1096,51 +1093,45 @@ a {
   width: 1056px;
   display: flex;
   padding: 0 72px;
+  padding-bottom: 24px;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .results-image {
   width: 135px;
-  margin: 30px 0;
-  margin-bottom: 0;
 }
 
 .hotels-photo {
   padding: 0;
   margin: 0;
+  margin-top: 30px;
 }
 
 .hotels-name {
-  width: 544px;
-  height: 26px;
+  width: 100%;
   margin: 0;
   margin-top: 25px;
-  padding: 0;
-  padding-left: 30px;
 }
 
 .results-description {
   display: flex;
   flex-wrap: wrap;
-  min-height: 59px;
+  width: 100%;
+  padding-left: 30px;
 }
 
 .description-unit {
   width: 111px;
+  padding: 0;
   margin: 0;
   margin-right: 6px;
-  padding: 0;
-  padding-left: 30px;
-  padding-bottom: 24px;
 }
 
 .description-unit-2 {
-  width: 143px;
+  width: 142px;
   margin: 0;
 }
 
 .rating-box {
-  width: 241px;
-  min-height: 152px;
   margin-left: auto;
 }
