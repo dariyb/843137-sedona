@@ -685,6 +685,10 @@ a {
 
 /* -------- */
 
+.checkbox-filter {
+  position: relative;
+}
+
 .checkbox-filter::before {
   content: "";
   position: absolute;
