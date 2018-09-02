@@ -702,6 +702,11 @@ a {
   background-repeat: no-repeat;
 }
 
+.checkbox-filter-form:checked, .checkbox-filter::before {
+  width: 27px;
+  background-image: url("../img/checkbox-on.svg");
+}
+
 .description-unit p {
   font-size: 14px;
   line-height: 21px;
