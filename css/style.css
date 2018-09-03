@@ -767,16 +767,16 @@ a {
 }
 
 .rating-star p {
-  margin-top: 29px;
+  margin-top: 30px;
   margin-bottom: 42px;
   text-align: right;
 }
 
-.star:nth-child(1) {
+.unit-item-1 .star:nth-child(1) {
   padding-right: 2px;
 }
 
-.star:nth-child(2) {
+.unit-item-1 .star:nth-child(2) {
   padding-right: 4px;
 }
 
