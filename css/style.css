@@ -854,7 +854,11 @@ a {
   font-size: 14px;
   vertical-align: top;
   width: 90px;
-  padding-left: 61px;
+  padding-left: 57px;
+}
+
+.from {
+  padding-left: 65px;
 }
 
 .filter-interval input[type="text"] {
