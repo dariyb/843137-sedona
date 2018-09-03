@@ -780,6 +780,10 @@ a {
   padding-right: 4px;
 }
 
+.unit-item-2 .star:nth-child(1) {
+  padding-right: 3px;
+}
+
 .description-unit-2 a:hover, .description-unit-2 a:focus {
   background-color: #604e43;
 }
