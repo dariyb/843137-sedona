@@ -767,9 +767,17 @@ a {
 }
 
 .rating-star p {
-  margin-top: 28px;
+  margin-top: 29px;
   margin-bottom: 42px;
   text-align: right;
+}
+
+.star:nth-child(1) {
+  padding-right: 2px;
+}
+
+.star:nth-child(2) {
+  padding-right: 4px;
 }
 
 .description-unit-2 a:hover, .description-unit-2 a:focus {
