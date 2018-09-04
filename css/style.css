@@ -865,7 +865,7 @@ a {
 .filter-range-handle {
   position: absolute;
   top: -10px;
-  left: 5px;
+  left: 3px;
 }
 
 .max {
