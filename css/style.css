@@ -100,7 +100,7 @@ a {
   padding-top: 76px;
   background-color: #9e7f76;
   background-image: url("../img/intro-mask.svg"), url("../img/maun.jpg");
-  background-position: 100% 100%, 50% 28%;
+  background-position: 100% 100%, 100% 28%;
   background-repeat: no-repeat, no-repeat;
 }
 
