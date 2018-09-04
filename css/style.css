@@ -562,7 +562,7 @@ a {
 .map-image img {
   position: absolute;
   bottom: 0;
-  left: -50%;
+  left: 50%;
   transform: translateX(-50%);
 }
 
