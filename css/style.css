@@ -1123,8 +1123,10 @@ a {
   border-bottom: 1px solid #e5e5e5;
 }
 
-.results-image {
+.results-list-item a {
+  display: block;
   width: 135px;
+  margin-top: 25px;
 }
 
 .hotels-photo {
