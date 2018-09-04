@@ -1129,6 +1129,7 @@ a {
 
 .results-image {
   width: 135px;
+  margin-right: 30px;
 }
 
 .hotels-photo {
@@ -1149,7 +1150,6 @@ a {
   flex-wrap: wrap;
   width: 100%;
   /* padding-left: 30px; */
-  margin-left: 30px;
 }
 
 .description-unit {
