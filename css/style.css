@@ -272,6 +272,7 @@ a {
 .search-title {
   background-color: #ffffff;
   text-align: center;
+  position: relative;
 }
 
 .search-container {
@@ -332,10 +333,11 @@ a {
   width: 568px;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 316px;
   background-color: #ffffff;
   min-height: 395px;
   position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 3;
 }
 
@@ -560,7 +562,8 @@ a {
 .map-image img {
   position: absolute;
   bottom: 0;
-  left: -3.3%;
+  left: -50%;
+  transform: translateX(-50%);
 }
 
 .main-footer {
