@@ -97,11 +97,19 @@ a {
 }
 
 .logo-s-intro {
+  position: relative;
   padding-top: 76px;
   background-color: #9e7f76;
-  background-image: url("../img/intro-mask.svg"), url("../img/maun.jpg");
-  background-position: 100% 100%, 100% 28%;
-  background-repeat: no-repeat, no-repeat;
+  background-image: url("../img/maun.jpg");
+  background-position: 100% 28%;
+  background-repeat: no-repeat;
+}
+
+.logo-s-intro::after {
+  position: absolute;
+  background-image: url("../img/intro-mask.svg");
+  background-repeat: no-repeat;
+  bottom: 0;
 }
 
 .logo-s {
