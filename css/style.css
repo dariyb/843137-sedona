@@ -107,6 +107,8 @@ a {
 
 .logo-s-intro::after {
   position: absolute;
+  width: 100%;
+  z-index: 3;
   background-image: url("../img/intro-mask.svg");
   background-repeat: no-repeat;
   bottom: 0;
