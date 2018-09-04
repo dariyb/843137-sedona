@@ -1112,15 +1112,11 @@ a {
 
 .results-list {
   list-style: none;
-  display: flex;
-  flex-direction: column;
   margin: 0;
   padding: 0;
-  min-height: 453px;
 }
 
 .results-list-item {
-  width: 1056px;
   display: flex;
   padding: 0 72px;
   padding-bottom: 24px;
