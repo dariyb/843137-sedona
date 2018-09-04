@@ -106,6 +106,7 @@ a {
 }
 
 .logo-s-intro::after {
+  content: "";
   position: absolute;
   width: 100%;
   z-index: 3;
