@@ -109,7 +109,8 @@ a {
   content: "";
   position: absolute;
   width: 100%;
-  z-index: 3;
+  height: 57px;
+  z-index: 5;
   background-image: url("../img/intro-mask.svg");
   background-position: 100% 100%;
   background-repeat: no-repeat;
