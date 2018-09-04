@@ -668,7 +668,6 @@ a {
 }
 
 /* --------------- */
-
 .filter {
   background-image: url("../img/blurr.jpg");
   background-position: 50% 50%;
@@ -701,7 +700,6 @@ a {
 }
 
 /* -------- */
-
 .checkbox-filter {
   position: relative;
   padding-left: 40px;
@@ -1010,7 +1008,6 @@ a {
 }
 
 /* -----------------Сетка-------------- */
-
 .filter-search {
   display: flex;
   min-height: 204px;
@@ -1147,7 +1144,7 @@ a {
 .results-description {
   display: flex;
   flex-wrap: wrap;
-  width: 100%;
+  flex=grow: 1;
   padding-left: 30px;
 }
 
