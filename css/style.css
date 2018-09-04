@@ -1148,7 +1148,8 @@ a {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  padding-left: 30px;
+  /* padding-left: 30px; */
+  margin-left: 30px;
 }
 
 .description-unit {
