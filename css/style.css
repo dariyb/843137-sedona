@@ -369,6 +369,7 @@ a {
 
 .search-item label {
   padding-top: 5px;
+  width: 112px;
 }
 
 .search-item-text {
@@ -384,14 +385,6 @@ a {
   padding-left: 13px;
 }
 
-.search-form p:first-child input {
-  margin-left: 23px;
-}
-
-.search-form p:nth-child(2) input {
-  margin-left: 20px;
-}
-
 .search-item:nth-child(3) input {
   width: 38px;
   padding: 6px 0;
@@ -401,6 +394,8 @@ a {
 
 .search-item:nth-child(3) label {
   padding-top: 7px;
+  width: 65px;
+  text-align: left;
 }
 
 .search-item-text::placeholder {
@@ -449,10 +444,12 @@ a {
   font: inherit;
   background-color: #f2f2f2;
   border: none;
+  display: block;
+  position: relative;
   width: 38px;
   height: 38px;
   font-size: 0;
-  padding: 0;
+  padding: 0 19px;
   margin: 0;
 }
 
@@ -462,8 +459,9 @@ a {
   width: 12px;
   height: 3px;
   background-color: #a9a9a9;
-  top: 52.6%;
-  left: 32%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .m-kids::after {
@@ -472,8 +470,9 @@ a {
   width: 12px;
   height: 3px;
   background-color: #a9a9a9;
-  top: 52.6%;
-  left: 73%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .p-adults::after, .p-adults::before {
@@ -482,8 +481,9 @@ a {
   width: 12px;
   height: 3px;
   background-color: #a9a9a9;
-  top: 52.6%;
-  left: 45%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .p-kids::after, .p-kids::before {
@@ -492,17 +492,17 @@ a {
   width: 12px;
   height: 3px;
   background-color: #a9a9a9;
-  top: 52.6%;
-  left: 86%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .p-kids::after {
-  transform: rotate(90deg);
+  transform: translate(-50%, -50%) rotate(90deg);
 }
 
 .p-adults::after {
-  left: 45%;
-  transform: rotate(90deg);
+  transform: translate(-50%, -50%) rotate(90deg);
 }
 
 .m-adults:hover::after, .m-adults:focus::after, .m-kids:hover::after, .m-kids:focus::after, .p-adults:hover::after, .p-adults:hover::before, .p-adults:focus::after, .p-adults:focus::before, .p-kids:hover::after, .p-kids:hover::before, .p-kids:focus::after, .p-kids:focus::before {
@@ -514,11 +514,7 @@ a {
 }
 
 .m-adults {
-  margin-left: 40px;
-}
-
-.m-kids {
-  margin-left: 27px;
+  margin-left: 46px;
 }
 
 .p-adults {
