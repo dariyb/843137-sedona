@@ -30,7 +30,7 @@ button.addEventListener("click", function(evt) {
 });
 close.addEventListener("click", function(evt) {
   evt.preventDefault();
-  popform.classList.toggle("search-form");
+  // popform.classList.toggle("search-form");
 });
 popform.addEventListener("submit", function(evt) {
   if (!enterdate.value || !departuredate.value || !adults.value || !kids.value) {
