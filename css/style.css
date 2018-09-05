@@ -353,7 +353,7 @@ a {
   left: 50%;
   transform: translateX(-50%);
   z-index: 3;
-  display: none;
+  /* display: none; */
 }
 
 .search-item {
