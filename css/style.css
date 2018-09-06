@@ -1167,7 +1167,7 @@ a {
 
 .form-show {
   display: block;
-  animation: bounce;
+  animation: bounce 0.6s;
 }
 
 @keyframes bounce {
