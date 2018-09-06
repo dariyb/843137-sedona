@@ -1167,10 +1167,11 @@ a {
 
 .form-show {
   display: block;
-  animation: bounce 0.3s;
+  animation-name: moveform;
+  animation-duration: 0.6s;
 }
 
-@keyframes bounce {
+@keyframes moveform {
   0% {
     transform: translateY(0);
   }
