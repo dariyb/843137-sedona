@@ -353,7 +353,7 @@ a {
   left: 50%;
   transform: translateX(-50%);
   z-index: 3;
-  display: none;
+  /* display: none; */
 }
 
 .search-item {
@@ -1165,7 +1165,7 @@ a {
   margin-left: auto;
 }
 
-.form-show {
+/* .form-show {
   display: block;
   animation: moveform 0.7s forwards;
 }
@@ -1177,4 +1177,4 @@ a {
 
   100% {
     transform: scaleY(1) translate(-50%, 0);
-  }
+  } */
