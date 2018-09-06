@@ -37,10 +37,14 @@ if (button) {
 close.addEventListener("click", function(evt) {
   evt.preventDefault();
   popform.classList.toggle("search-for-hotel");
+  popform.classList.remove("form-error");
 });
 popform.addEventListener("submit", function(evt) {
   if (!enterdate.value || !departuredate.value || !adults.value || !kids.value) {
     evt.preventDefault();
+    popform.classList.remove("form-error");
+    popform.offsetWidth = popform.offsetWidth;
+    popform.classList.add("form-error");
     console.log("Заполните все поля");
   } else {
     if (isStorageSupport) {
@@ -54,6 +58,7 @@ window.addEventListener("keydown", function(evt) {
     evt.preventDefault();
     if (popform.classList.contains("form-show")) {
       popform.classList.remove("form-show");
+      popform.classList.remove("form-error");
     }
   }
 });
