@@ -1174,7 +1174,7 @@ a {
 }
 
 .form-show {
-  display: block;
+  display: flex;
   animation: moveform 0.7s forwards;
 }
 
