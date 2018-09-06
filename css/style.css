@@ -733,7 +733,7 @@ a {
 }
 
 .checkbox-filter-form:disabled+.checkbox-filter::before {
-  color: #6a6a6a;
+  background-color: #6a6a6a;
 }
 
 .description-unit p {
