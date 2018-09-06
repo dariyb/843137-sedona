@@ -1167,10 +1167,10 @@ a {
 
 .form-show {
   display: block;
-  /* animation: bounce; */
+  animation: bounce;
 }
 
-/* @keyframes bounce {
+@keyframes bounce {
   0% {
     transform: translateY(0);
   }
@@ -1182,4 +1182,4 @@ a {
   100% {
     transform: translateY(100%);
   }
-} */
+}
