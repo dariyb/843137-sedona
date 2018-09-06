@@ -577,6 +577,12 @@ a {
   transform: translateX(-50%);
 }
 
+.search-title iframe {
+  position: relative;
+  z-index: 6;
+  border: none;
+}
+
 .main-footer {
   display: flex;
   width: 100%;
