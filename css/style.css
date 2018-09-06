@@ -578,7 +578,7 @@ a {
 }
 
 .search-title iframe {
-  position: relative;
+  position: absolute;
   z-index: 6;
   border: none;
 }
