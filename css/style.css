@@ -1208,13 +1208,13 @@ a {
   50%,
   70%,
   90% {
-    transform: translateX(-10px);
+    transform: translateX(-60px);
   }
 
   20%,
   40%,
   60%,
   80% {
-    transform: translateX(10px);
+    transform: translateX(-40px);
   }
 }
