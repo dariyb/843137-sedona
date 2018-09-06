@@ -732,11 +732,6 @@ a {
   background-image: url("../img/checkbox-on.svg");
 }
 
-.checkbox-filter-form:disabled+.checkbox-filter::before {
-  background-image: url("../img/checkbox-off.svg");
-  fill: #6a6a6a;
-}
-
 .description-unit p {
   font-size: 14px;
   line-height: 21px;
