@@ -1182,6 +1182,10 @@ a {
   display: none;
 }
 
+.form-error {
+  animation: shake 0.6s;
+}
+
 @keyframes moveform {
   0% {
     transform: scaleY(0) translate(-50%, -100%);
