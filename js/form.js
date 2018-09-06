@@ -31,6 +31,7 @@ if (button) {
       kids.focus();
     } else {
       adults.focus();
+      enterdate.focus();
     }
   });
 }
