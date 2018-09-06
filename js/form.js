@@ -17,17 +17,23 @@ try {
 } catch (err) {
   isStorageSupport = false;
 }
-button.addEventListener("click", function(evt) {
-  evt.preventDefault();
-  popform.classList.toggle("form-show");
-  if (storage) {
-    adults.value = storage;
-    kids.focus();
-  } else {
-    adults.focus();
-  }
-  enterdate.focus();
-});
+if (popform) {
+  popform.classList.add("form-close");
+}
+if (button) {
+  button.addEventListener("click", function(evt) {
+    evt.preventDefault();
+    popform.classList.toggle("form-close");
+    popform.classList.toggle("form-show");
+    if (storage) {
+      adults.value = storage;
+      kids.focus();
+    } else {
+      adults.focus();
+    }
+    enterdate.focus();
+  });
+}
 close.addEventListener("click", function(evt) {
   evt.preventDefault();
   popform.classList.toggle("search-for-hotel");
