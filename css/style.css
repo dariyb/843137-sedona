@@ -678,6 +678,7 @@ a {
 
 /* --------------- */
 .filter {
+  background-color: #3c7199;
   background-image: url("../img/blurr.jpg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
