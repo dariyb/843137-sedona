@@ -1168,19 +1168,14 @@ a {
 .form-show {
   display: block;
   animation-name: moveform;
-  animation-duration: 0.6s;
+  animation-duration: 0.7s forwards;
 }
 
 @keyframes moveform {
   0% {
-    transform: translateY(0);
-  }
-
-  50% {
-    transform: translateY(200px);
+    transform: scaleY(0) translateY(-100%);
   }
 
   100% {
-    transform: translateY(395px);
+    transform: scaleY(1) translateY(0);
   }
-}
