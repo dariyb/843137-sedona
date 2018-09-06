@@ -1,6 +1,6 @@
 var button = document.querySelector(".search-for-hotel");
 var popform = document.querySelector(".search-form");
-var close = popform.querySelector(".search-form");
+var close = popform.querySelector(".search-for-hotel");
 var form = popform.querySelector("form");
 var enterdate = popform.querySelector("[name=date-of-arrival]");
 var departuredate = popform.querySelector("[name=date-of-departure]");
