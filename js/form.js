@@ -30,8 +30,8 @@ if (button) {
       kids.focus();
     } else {
       adults.focus();
+      enterdate.focus();
     }
-    enterdate.focus();
   });
 }
 close.addEventListener("click", function(evt) {
@@ -45,7 +45,7 @@ popform.addEventListener("submit", function(evt) {
     popform.classList.remove("form-error");
     popform.offsetWidth = popform.offsetWidth;
     popform.classList.add("form-error");
-
+    console.log("Заполните все поля");
   } else {
     if (isStorageSupport) {
       localStorage.setItem("adults", adults.value);
