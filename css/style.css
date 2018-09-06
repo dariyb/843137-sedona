@@ -353,7 +353,6 @@ a {
   left: 50%;
   transform: translateX(-50%);
   z-index: 5;
-  display: none;
 }
 
 .search-item {
@@ -1177,6 +1176,10 @@ a {
 .form-show {
   display: block;
   animation: moveform 0.7s forwards;
+}
+
+.form-close {
+  display: none;
 }
 
 @keyframes moveform {
