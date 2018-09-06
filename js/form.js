@@ -1,6 +1,7 @@
 var button = document.querySelector(".search-for-hotel");
 var popform = document.querySelector(".search-form");
 var close = popform.querySelector(".search-form");
+var form = popform.querySelector("form");
 var enterdate = popform.querySelector("[name=date-of-arrival]");
 var departuredate = popform.querySelector("[name=date-of-departure]");
 var adults = popform.querySelector("[name=adults]");
@@ -30,7 +31,6 @@ if (button) {
       kids.focus();
     } else {
       adults.focus();
-      enterdate.focus();
     }
   });
 }
@@ -39,7 +39,7 @@ close.addEventListener("click", function(evt) {
   popform.classList.toggle("search-for-hotel");
   popform.classList.remove("form-error");
 });
-popform.addEventListener("submit", function(evt) {
+form.addEventListener("submit", function(evt) {
   if (!enterdate.value || !departuredate.value || !adults.value || !kids.value) {
     evt.preventDefault();
     popform.classList.remove("form-error");
