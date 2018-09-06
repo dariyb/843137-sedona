@@ -1167,8 +1167,7 @@ a {
 
 .form-show {
   display: block;
-  animation-name: moveform;
-  animation-duration: 0.7s forwards;
+  animation: moveform 0.7s forwards;
 }
 
 @keyframes moveform {
