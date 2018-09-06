@@ -733,7 +733,8 @@ a {
 }
 
 .checkbox-filter-form:disabled+.checkbox-filter::before {
-  background-image: #6a6a6a url("../img/checkbox-off.svg");
+  background-image: url("../img/checkbox-off.svg");
+  fill: #6a6a6a;
 }
 
 .description-unit p {
