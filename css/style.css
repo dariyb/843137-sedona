@@ -152,8 +152,9 @@ a {
 
 .reasons-unit {
   display: flex;
-  height: 256px;
+  min-height: 256px;
   color: #ffffff;
+  background-color: #81b3d2;
   text-align: center;
 }
 
@@ -202,6 +203,7 @@ a {
 
 .reasons-list {
   display: flex;
+  flex-wrap: wrap;
   margin: 0;
   padding: 0;
   background-color: #ffffff;
@@ -256,6 +258,7 @@ a {
 
 .reasons-unit-2 {
   display: flex;
+  flex-wrap:wrap;
   background-color: #eeeeee;
   text-align: center;
 }
@@ -1026,6 +1029,7 @@ a {
 
 .filter-search {
   display: flex;
+  flex-wrap: wrap;
   min-height: 204px;
   padding-left: 72px;
   padding-right: 72px;
@@ -1084,6 +1088,7 @@ a {
 .filter-results {
   background-color: #fefefe;
   display: flex;
+  flex-wrap:wrap;
   padding-left: 72px;
   padding-right: 72px;
   padding-bottom: 29px;
