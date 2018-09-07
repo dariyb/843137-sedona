@@ -356,7 +356,7 @@ a {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  z-index: 5;
+  z-index: 12;
 }
 
 .search-item {
