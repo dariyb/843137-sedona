@@ -1167,7 +1167,7 @@ a {
 .results-description {
   display: flex;
   flex-wrap: wrap;
-  flex=grow: 1;
+  flex-grow: 1;
   padding-left: 30px;
 }
 
