@@ -730,9 +730,13 @@ a {
   background-image: url("../img/checkbox-on.svg");
 }
 
-.checkbox-filter-form:checked:disabled+.checkbox-filter::before{
+.checkbox-filter-form:disabled+.checkbox-filter::before{
   width: 23px;
   background-image: url("../img/checkbox-disabled-off.svg");
+}
+.checkbox-filter-form:checked:disabled+.checkbox-filter::before {
+  width: 27px;
+  background-image: url("../img/checkbox-disabled-on.svg");
 }
 
 .description-unit p {
