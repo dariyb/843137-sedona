@@ -676,7 +676,6 @@ a {
   fill: #bdbbbc;
 }
 
-/* --------------- */
 .filter {
   background-color: #3c7199;
   background-image: url("../img/blurr.jpg");
@@ -709,7 +708,6 @@ a {
   list-style: none;
 }
 
-/* -------- */
 .checkbox-filter {
   position: relative;
   padding-left: 40px;
@@ -1017,7 +1015,6 @@ a {
   fill: #81b3d2;
 }
 
-/* -----------------Сетка-------------- */
 .filter-search {
   display: flex;
   min-height: 204px;
