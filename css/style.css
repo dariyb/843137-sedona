@@ -250,13 +250,6 @@ a {
   padding: 0 43px;
 }
 
-.reason-image img {
-  position: absolute;
-  top: 53%;
-  left: 0;
-  transform: translateY(-53%);
-}
-
 .reasons-unit-2 {
   display: flex;
   flex-wrap:wrap;
