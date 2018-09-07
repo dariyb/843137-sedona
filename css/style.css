@@ -730,6 +730,11 @@ a {
   background-image: url("../img/checkbox-on.svg");
 }
 
+.checkbox-filter:disabled::before {
+  width: 23px;
+  background-image: url("../img/checkbox-disabled-off.svg");
+}
+
 .description-unit p {
   font-size: 14px;
   line-height: 21px;
