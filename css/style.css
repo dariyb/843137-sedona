@@ -203,6 +203,7 @@ a {
 
 .reasons-list {
   display: flex;
+  flex-wrap: wrap;
   margin: 0;
   padding: 0;
   background-color: #ffffff;
@@ -215,6 +216,7 @@ a {
   padding: 0 47px;
   padding-top: 60px;
   padding-bottom: 66px;
+  box-sizing: border-box;
 }
 
 .reasons-list-item h3 {
