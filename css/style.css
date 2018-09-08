@@ -441,7 +441,7 @@ a {
   fill: #a9a9a9;
 }
 
-.search-calendar svg:hover, .search-calendar svg:focus {
+.search-calendar:hover svg, .search-calendar:focus svg {
   fill: #000000;
 }
 
