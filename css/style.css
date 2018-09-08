@@ -993,6 +993,7 @@ a {
 
 .sorting-list a:active {
   color: #000000;
+  border-bottom:none;
 }
 
 .sorting-list-current a {
