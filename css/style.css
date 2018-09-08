@@ -445,7 +445,7 @@ a {
   fill: #000000;
 }
 
-.search-calendar svg:active {
+.search-calendar:active svg {
   fill: #81b3d2;
 }
 
